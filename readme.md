@@ -24,7 +24,11 @@
 - Graph (Nodes: Users, Edges: )
 
 
-
-# The link for dataset:
+# Useful links
+## 1. The link for dataset:
 https://husteduvn-my.sharepoint.com/:f:/g/personal/anh_nv183478_sis_hust_edu_vn/EvcJws5DpdhAs9O8hXTgxfYBC-m63XdKIE2Xu5cqgT843w?e=hOtCuW
+
+## 2. Kaggle processing link:
+https://www.kaggle.com/code/vietanhnguyen1010/clean-data-myanimelist
+
 
