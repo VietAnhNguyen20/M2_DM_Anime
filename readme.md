@@ -38,3 +38,7 @@ https://husteduvn-my.sharepoint.com/:f:/g/personal/anh_nv183478_sis_hust_edu_vn/
 https://www.kaggle.com/code/vietanhnguyen1010/clean-data-myanimelist
 
 
+## 3. Country information (lon, lat, name):
+https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+
+
