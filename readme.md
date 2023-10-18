@@ -11,15 +11,21 @@
 
 ## Ideas to be completed
 - Users and theirs location -> Distribution of users over the world
+(Normalized by population)
 - Compare watching trending for each country (or each genre)
 
 - Which country loves the anime the most (based on number of anime completed and others stuffs (maybe weighted))
+
+- Number of average watched episodes by users
 
 - Graph (Nodes: Anime, Edges: +1 if 2 animes watch by the each user). Note: Using a threshold for weight of the edge -> Elimite the weights, only keep the edge with weights larger than a threshold
     - Community detection algorithm.
     - Centralities
 
 -> Relationship between anime
+
+- (2,3 animes) => Recommendation for people to watch next anime based on the first one
+(Frequent Pattern)
 
 - Graph (Nodes: Users, Edges: )
 
