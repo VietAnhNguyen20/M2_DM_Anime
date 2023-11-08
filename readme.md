@@ -10,6 +10,8 @@
 
 
 ## Ideas to be completed
+
+### Statics
 - Users and theirs location -> Distribution of users over the world
 (Normalized by population)
 - Compare watching trending for each country (or each genre)
@@ -18,16 +20,31 @@
 
 - Number of average watched episodes by users
 
+
+### Techniques
+
 - Graph (Nodes: Anime, Edges: +1 if 2 animes watch by the each user). Note: Using a threshold for weight of the edge -> Elimite the weights, only keep the edge with weights larger than a threshold
     - Community detection algorithm.
     - Centralities
 
 -> Relationship between anime
 
++ Threshold is reasonble (Distribution plot for threshold)?
++ How many communities is enough ?
++ Map from communities to the properties of animes -> Features of the same animes in the anime communities 
+
+
 - (2,3 animes) => Recommendation for people to watch next anime based on the first one
 (Frequent Pattern)
 
-- Graph (Nodes: Users, Edges: )
+- Spearman correlation between 2 columns in user/anime
+
+- Clusterings on users (user_watching,user_completed,user_onhold,user_dropped,user_plantowatch,user_days_spent_watching) 
+=> Compare it with age (range of ages) ?
+
+
+- Why OnePiece is not a top anime in this ? (Technique not known)
+
 
 
 # Useful links
