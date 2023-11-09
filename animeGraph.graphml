@@ -1,0 +1,3992 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d8" for="edge" attr.name="weight" attr.type="float" />
+  <key id="d7" for="node" attr.name="popularity" attr.type="int" />
+  <key id="d6" for="node" attr.name="rank" attr.type="float" />
+  <key id="d5" for="node" attr.name="score" attr.type="float" />
+  <key id="d4" for="node" attr.name="genre" attr.type="string" />
+  <key id="d3" for="node" attr.name="episodes" attr.type="int" />
+  <key id="d2" for="node" attr.name="source" attr.type="string" />
+  <key id="d1" for="node" attr.name="type" attr.type="string" />
+  <key id="d0" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="21">
+      <data key="d0">One Piece</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">0</data>
+      <data key="d4">Action, Adventure, Comedy, Super Power, Drama, Fantasy, Shounen</data>
+      <data key="d5">8.54</data>
+      <data key="d6">91.0</data>
+      <data key="d7">35</data>
+    </node>
+    <node id="269">
+      <data key="d0">Bleach</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">366</data>
+      <data key="d4">Action, Adventure, Comedy, Super Power, Supernatural, Shounen</data>
+      <data key="d5">7.9</data>
+      <data key="d6">693.0</data>
+      <data key="d7">18</data>
+    </node>
+    <node id="1735">
+      <data key="d0">Naruto: Shippuuden</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">500</data>
+      <data key="d4">Action, Adventure, Comedy, Super Power, Martial Arts, Shounen</data>
+      <data key="d5">8.18</data>
+      <data key="d6">337.0</data>
+      <data key="d7">20</data>
+    </node>
+    <node id="4224">
+      <data key="d0">Toradora!</data>
+      <data key="d1">TV</data>
+      <data key="d2">Light novel</data>
+      <data key="d3">25</data>
+      <data key="d4">Slice of Life, Comedy, Romance, School</data>
+      <data key="d5">8.39</data>
+      <data key="d6">174.0</data>
+      <data key="d7">13</data>
+    </node>
+    <node id="20">
+      <data key="d0">Naruto</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">220</data>
+      <data key="d4">Action, Adventure, Comedy, Super Power, Martial Arts, Shounen</data>
+      <data key="d5">7.88</data>
+      <data key="d6">745.0</data>
+      <data key="d7">10</data>
+    </node>
+    <node id="121">
+      <data key="d0">Fullmetal Alchemist</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">51</data>
+      <data key="d4">Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen</data>
+      <data key="d5">8.29</data>
+      <data key="d6">247.0</data>
+      <data key="d7">21</data>
+    </node>
+    <node id="226">
+      <data key="d0">Elfen Lied</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">13</data>
+      <data key="d4">Action, Horror, Psychological, Supernatural, Drama, Romance, Seinen</data>
+      <data key="d5">7.75</data>
+      <data key="d6">982.0</data>
+      <data key="d7">16</data>
+    </node>
+    <node id="1535">
+      <data key="d0">Death Note</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">37</data>
+      <data key="d4">Mystery, Police, Psychological, Supernatural, Thriller, Shounen</data>
+      <data key="d5">8.67</data>
+      <data key="d6">51.0</data>
+      <data key="d7">1</data>
+    </node>
+    <node id="1575">
+      <data key="d0">Code Geass: Hangyaku no Lelouch</data>
+      <data key="d1">TV</data>
+      <data key="d2">Original</data>
+      <data key="d3">25</data>
+      <data key="d4">Action, Military, Sci-Fi, Super Power, Drama, Mecha, School</data>
+      <data key="d5">8.79</data>
+      <data key="d6">30.0</data>
+      <data key="d7">9</data>
+    </node>
+    <node id="3588">
+      <data key="d0">Soul Eater</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">51</data>
+      <data key="d4">Action, Fantasy, Comedy, Supernatural, Shounen</data>
+      <data key="d5">8.03</data>
+      <data key="d6">523.0</data>
+      <data key="d7">23</data>
+    </node>
+    <node id="5114">
+      <data key="d0">Fullmetal Alchemist: Brotherhood</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">64</data>
+      <data key="d4">Action, Military, Adventure, Comedy, Drama, Magic, Fantasy, Shounen</data>
+      <data key="d5">9.25</data>
+      <data key="d6">1.0</data>
+      <data key="d7">4</data>
+    </node>
+    <node id="6702">
+      <data key="d0">Fairy Tail</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">175</data>
+      <data key="d4">Action, Adventure, Comedy, Magic, Fantasy, Shounen</data>
+      <data key="d5">8.08</data>
+      <data key="d6">452.0</data>
+      <data key="d7">19</data>
+    </node>
+    <node id="11757">
+      <data key="d0">Sword Art Online</data>
+      <data key="d1">TV</data>
+      <data key="d2">Light novel</data>
+      <data key="d3">25</data>
+      <data key="d4">Action, Adventure, Fantasy, Game, Romance</data>
+      <data key="d5">7.64</data>
+      <data key="d6">1259.0</data>
+      <data key="d7">3</data>
+    </node>
+    <node id="16498">
+      <data key="d0">Shingeki no Kyojin</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">25</data>
+      <data key="d4">Action, Military, Mystery, Super Power, Drama, Fantasy, Shounen</data>
+      <data key="d5">8.49</data>
+      <data key="d6">110.0</data>
+      <data key="d7">2</data>
+    </node>
+    <node id="59">
+      <data key="d0">Chobits</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">26</data>
+      <data key="d4">Sci-Fi, Comedy, Drama, Romance, Ecchi, Seinen</data>
+      <data key="d5">7.53</data>
+      <data key="d6">1546.0</data>
+      <data key="d7">188</data>
+    </node>
+    <node id="853">
+      <data key="d0">Ouran Koukou Host Club</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">26</data>
+      <data key="d4">Comedy, Harem, Romance, School, Shoujo</data>
+      <data key="d5">8.34</data>
+      <data key="d6">205.0</data>
+      <data key="d7">69</data>
+    </node>
+    <node id="1">
+      <data key="d0">Cowboy Bebop</data>
+      <data key="d1">TV</data>
+      <data key="d2">Original</data>
+      <data key="d3">26</data>
+      <data key="d4">Action, Adventure, Comedy, Drama, Sci-Fi, Space</data>
+      <data key="d5">8.81</data>
+      <data key="d6">27.0</data>
+      <data key="d7">38</data>
+    </node>
+    <node id="30">
+      <data key="d0">Neon Genesis Evangelion</data>
+      <data key="d1">TV</data>
+      <data key="d2">Original</data>
+      <data key="d3">26</data>
+      <data key="d4">Action, Sci-Fi, Dementia, Psychological, Drama, Mecha</data>
+      <data key="d5">8.32</data>
+      <data key="d6">223.0</data>
+      <data key="d7">48</data>
+    </node>
+    <node id="199">
+      <data key="d0">Sen to Chihiro no Kamikakushi</data>
+      <data key="d1">Movie</data>
+      <data key="d2">Original</data>
+      <data key="d3">1</data>
+      <data key="d4">Adventure, Supernatural, Drama</data>
+      <data key="d5">8.92</data>
+      <data key="d6">19.0</data>
+      <data key="d7">39</data>
+    </node>
+    <node id="205">
+      <data key="d0">Samurai Champloo</data>
+      <data key="d1">TV</data>
+      <data key="d2">Original</data>
+      <data key="d3">26</data>
+      <data key="d4">Action, Adventure, Comedy, Historical, Samurai, Shounen</data>
+      <data key="d5">8.5</data>
+      <data key="d6">105.0</data>
+      <data key="d7">67</data>
+    </node>
+    <node id="356">
+      <data key="d0">Fate/stay night</data>
+      <data key="d1">TV</data>
+      <data key="d2">Visual novel</data>
+      <data key="d3">24</data>
+      <data key="d4">Action, Supernatural, Magic, Romance, Fantasy</data>
+      <data key="d5">7.52</data>
+      <data key="d6">1570.0</data>
+      <data key="d7">82</data>
+    </node>
+    <node id="934">
+      <data key="d0">Higurashi no Naku Koro ni</data>
+      <data key="d1">TV</data>
+      <data key="d2">Visual novel</data>
+      <data key="d3">26</data>
+      <data key="d4">Mystery, Dementia, Horror, Psychological, Supernatural, Thriller</data>
+      <data key="d5">8.1</data>
+      <data key="d6">437.0</data>
+      <data key="d7">97</data>
+    </node>
+    <node id="1482">
+      <data key="d0">D.Gray-man</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">103</data>
+      <data key="d4">Action, Adventure, Comedy, Super Power, Demons, Shounen</data>
+      <data key="d5">8.16</data>
+      <data key="d6">355.0</data>
+      <data key="d7">106</data>
+    </node>
+    <node id="2001">
+      <data key="d0">Tengen Toppa Gurren Lagann</data>
+      <data key="d1">TV</data>
+      <data key="d2">Original</data>
+      <data key="d3">27</data>
+      <data key="d4">Action, Adventure, Comedy, Mecha, Sci-Fi</data>
+      <data key="d5">8.74</data>
+      <data key="d6">41.0</data>
+      <data key="d7">24</data>
+    </node>
+    <node id="2025">
+      <data key="d0">Darker than Black: Kuro no Keiyakusha</data>
+      <data key="d1">TV</data>
+      <data key="d2">Original</data>
+      <data key="d3">25</data>
+      <data key="d4">Action, Sci-Fi, Mystery, Super Power</data>
+      <data key="d5">8.21</data>
+      <data key="d6">299.0</data>
+      <data key="d7">61</data>
+    </node>
+    <node id="2167">
+      <data key="d0">Clannad</data>
+      <data key="d1">TV</data>
+      <data key="d2">Visual novel</data>
+      <data key="d3">23</data>
+      <data key="d4">Slice of Life, Comedy, Romance, Supernatural, School, Drama</data>
+      <data key="d5">8.21</data>
+      <data key="d6">298.0</data>
+      <data key="d7">31</data>
+    </node>
+    <node id="2904">
+      <data key="d0">Code Geass: Hangyaku no Lelouch R2</data>
+      <data key="d1">TV</data>
+      <data key="d2">Original</data>
+      <data key="d3">25</data>
+      <data key="d4">Action, Military, Sci-Fi, Super Power, Drama, Mecha</data>
+      <data key="d5">8.95</data>
+      <data key="d6">18.0</data>
+      <data key="d7">22</data>
+    </node>
+    <node id="5081">
+      <data key="d0">Bakemonogatari</data>
+      <data key="d1">TV</data>
+      <data key="d2">Light novel</data>
+      <data key="d3">15</data>
+      <data key="d4">Romance, Supernatural, Mystery, Vampire</data>
+      <data key="d5">8.35</data>
+      <data key="d6">191.0</data>
+      <data key="d7">44</data>
+    </node>
+    <node id="6746">
+      <data key="d0">Durarara!!</data>
+      <data key="d1">TV</data>
+      <data key="d2">Light novel</data>
+      <data key="d3">24</data>
+      <data key="d4">Action, Mystery, Supernatural</data>
+      <data key="d5">8.29</data>
+      <data key="d6">247.0</data>
+      <data key="d7">30</data>
+    </node>
+    <node id="9253">
+      <data key="d0">Steins;Gate</data>
+      <data key="d1">TV</data>
+      <data key="d2">Visual novel</data>
+      <data key="d3">24</data>
+      <data key="d4">Thriller, Sci-Fi</data>
+      <data key="d5">9.14</data>
+      <data key="d6">5.0</data>
+      <data key="d7">8</data>
+    </node>
+    <node id="9919">
+      <data key="d0">Ao no Exorcist</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">25</data>
+      <data key="d4">Action, Demons, Fantasy, Shounen, Supernatural</data>
+      <data key="d5">7.83</data>
+      <data key="d6">823.0</data>
+      <data key="d7">14</data>
+    </node>
+    <node id="849">
+      <data key="d0">Suzumiya Haruhi no Yuuutsu</data>
+      <data key="d1">TV</data>
+      <data key="d2">Light novel</data>
+      <data key="d3">14</data>
+      <data key="d4">Comedy, Mystery, Parody, School, Sci-Fi, Slice of Life</data>
+      <data key="d5">7.99</data>
+      <data key="d6">573.0</data>
+      <data key="d7">68</data>
+    </node>
+    <node id="8074">
+      <data key="d0">Highschool of the Dead</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">12</data>
+      <data key="d4">Action, Horror, Supernatural, Ecchi, Shounen</data>
+      <data key="d5">7.36</data>
+      <data key="d6">2184.0</data>
+      <data key="d7">32</data>
+    </node>
+    <node id="10620">
+      <data key="d0">Mirai Nikki (TV)</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">26</data>
+      <data key="d4">Action, Psychological, Supernatural, Thriller, Mystery, Shounen</data>
+      <data key="d5">7.89</data>
+      <data key="d6">721.0</data>
+      <data key="d7">12</data>
+    </node>
+    <node id="6547">
+      <data key="d0">Angel Beats!</data>
+      <data key="d1">TV</data>
+      <data key="d2">Original</data>
+      <data key="d3">13</data>
+      <data key="d4">Action, Comedy, Drama, School, Supernatural</data>
+      <data key="d5">8.31</data>
+      <data key="d6">227.0</data>
+      <data key="d7">7</data>
+    </node>
+    <node id="6045">
+      <data key="d0">Kimi ni Todoke</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">25</data>
+      <data key="d4">Slice of Life, Drama, Romance, School, Shoujo</data>
+      <data key="d5">8.13</data>
+      <data key="d6">400.0</data>
+      <data key="d7">111</data>
+    </node>
+    <node id="7054">
+      <data key="d0">Kaichou wa Maid-sama!</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">26</data>
+      <data key="d4">Comedy, Romance, School, Shoujo</data>
+      <data key="d5">8.2</data>
+      <data key="d6">314.0</data>
+      <data key="d7">71</data>
+    </node>
+    <node id="14227">
+      <data key="d0">Tonari no Kaibutsu-kun</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">13</data>
+      <data key="d4">Slice of Life, Comedy, Romance, School, Shoujo</data>
+      <data key="d5">7.71</data>
+      <data key="d6">1093.0</data>
+      <data key="d7">88</data>
+    </node>
+    <node id="355">
+      <data key="d0">Shakugan no Shana</data>
+      <data key="d1">TV</data>
+      <data key="d2">Light novel</data>
+      <data key="d3">24</data>
+      <data key="d4">Action, Drama, Fantasy, Romance, School, Supernatural</data>
+      <data key="d5">7.66</data>
+      <data key="d6">1207.0</data>
+      <data key="d7">144</data>
+    </node>
+    <node id="918">
+      <data key="d0">Gintama</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">201</data>
+      <data key="d4">Action, Sci-Fi, Comedy, Historical, Parody, Samurai, Shounen</data>
+      <data key="d5">9.01</data>
+      <data key="d6">15.0</data>
+      <data key="d7">95</data>
+    </node>
+    <node id="1689">
+      <data key="d0">Byousoku 5 Centimeter</data>
+      <data key="d1">Movie</data>
+      <data key="d2">Original</data>
+      <data key="d3">3</data>
+      <data key="d4">Drama, Romance, Slice of Life</data>
+      <data key="d5">7.95</data>
+      <data key="d6">610.0</data>
+      <data key="d7">96</data>
+    </node>
+    <node id="2236">
+      <data key="d0">Toki wo Kakeru Shoujo</data>
+      <data key="d1">Movie</data>
+      <data key="d2">Novel</data>
+      <data key="d3">1</data>
+      <data key="d4">Sci-Fi, Adventure, Drama, Romance</data>
+      <data key="d5">8.35</data>
+      <data key="d6">194.0</data>
+      <data key="d7">113</data>
+    </node>
+    <node id="2251">
+      <data key="d0">Baccano!</data>
+      <data key="d1">TV</data>
+      <data key="d2">Light novel</data>
+      <data key="d3">13</data>
+      <data key="d4">Action, Mystery, Comedy, Historical, Supernatural</data>
+      <data key="d5">8.49</data>
+      <data key="d6">107.0</data>
+      <data key="d7">87</data>
+    </node>
+    <node id="4654">
+      <data key="d0">Toaru Majutsu no Index</data>
+      <data key="d1">TV</data>
+      <data key="d2">Light novel</data>
+      <data key="d3">24</data>
+      <data key="d4">Action, Magic, Sci-Fi, Super Power</data>
+      <data key="d5">7.63</data>
+      <data key="d6">1283.0</data>
+      <data key="d7">115</data>
+    </node>
+    <node id="5630">
+      <data key="d0">Higashi no Eden</data>
+      <data key="d1">TV</data>
+      <data key="d2">Original</data>
+      <data key="d3">11</data>
+      <data key="d4">Action, Sci-Fi, Mystery, Comedy, Drama, Romance, Thriller</data>
+      <data key="d5">7.96</data>
+      <data key="d6">599.0</data>
+      <data key="d7">156</data>
+    </node>
+    <node id="9989">
+      <data key="d0">Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</data>
+      <data key="d1">TV</data>
+      <data key="d2">Original</data>
+      <data key="d3">11</data>
+      <data key="d4">Slice of Life, Supernatural, Drama</data>
+      <data key="d5">8.55</data>
+      <data key="d6">81.0</data>
+      <data key="d7">45</data>
+    </node>
+    <node id="11111">
+      <data key="d0">Another</data>
+      <data key="d1">TV</data>
+      <data key="d2">Novel</data>
+      <data key="d3">12</data>
+      <data key="d4">Mystery, Horror, Supernatural, Thriller, School</data>
+      <data key="d5">7.77</data>
+      <data key="d6">933.0</data>
+      <data key="d7">26</data>
+    </node>
+    <node id="12189">
+      <data key="d0">Hyouka</data>
+      <data key="d1">TV</data>
+      <data key="d2">Novel</data>
+      <data key="d3">22</data>
+      <data key="d4">Mystery, School, Slice of Life</data>
+      <data key="d5">8.15</data>
+      <data key="d6">372.0</data>
+      <data key="d7">73</data>
+    </node>
+    <node id="13601">
+      <data key="d0">Psycho-Pass</data>
+      <data key="d1">TV</data>
+      <data key="d2">Original</data>
+      <data key="d3">22</data>
+      <data key="d4">Action, Police, Psychological, Sci-Fi</data>
+      <data key="d5">8.45</data>
+      <data key="d6">134.0</data>
+      <data key="d7">29</data>
+    </node>
+    <node id="14813">
+      <data key="d0">Yahari Ore no Seishun Love Comedy wa Machigatteiru.</data>
+      <data key="d1">TV</data>
+      <data key="d2">Light novel</data>
+      <data key="d3">13</data>
+      <data key="d4">Slice of Life, Comedy, Drama, Romance, School</data>
+      <data key="d5">8.11</data>
+      <data key="d6">429.0</data>
+      <data key="d7">74</data>
+    </node>
+    <node id="18679">
+      <data key="d0">Kill la Kill</data>
+      <data key="d1">TV</data>
+      <data key="d2">Original</data>
+      <data key="d3">24</data>
+      <data key="d4">Action, Comedy, Super Power, Ecchi, School</data>
+      <data key="d5">8.19</data>
+      <data key="d6">325.0</data>
+      <data key="d7">28</data>
+    </node>
+    <node id="20507">
+      <data key="d0">Noragami</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">12</data>
+      <data key="d4">Action, Adventure, Comedy, Supernatural, Shounen</data>
+      <data key="d5">8.15</data>
+      <data key="d6">377.0</data>
+      <data key="d7">15</data>
+    </node>
+    <node id="22319">
+      <data key="d0">Tokyo Ghoul</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">12</data>
+      <data key="d4">Action, Mystery, Horror, Psychological, Supernatural, Drama, Seinen</data>
+      <data key="d5">8.0</data>
+      <data key="d6">560.0</data>
+      <data key="d7">6</data>
+    </node>
+    <node id="23273">
+      <data key="d0">Shigatsu wa Kimi no Uso</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">22</data>
+      <data key="d4">Drama, Music, Romance, School, Shounen</data>
+      <data key="d5">8.88</data>
+      <data key="d6">21.0</data>
+      <data key="d7">37</data>
+    </node>
+    <node id="30276">
+      <data key="d0">One Punch Man</data>
+      <data key="d1">TV</data>
+      <data key="d2">Web manga</data>
+      <data key="d3">12</data>
+      <data key="d4">Action, Sci-Fi, Comedy, Parody, Super Power, Supernatural, Seinen</data>
+      <data key="d5">8.73</data>
+      <data key="d6">44.0</data>
+      <data key="d7">5</data>
+    </node>
+    <node id="2966">
+      <data key="d0">Ookami to Koushinryou</data>
+      <data key="d1">TV</data>
+      <data key="d2">Light novel</data>
+      <data key="d3">13</data>
+      <data key="d4">Adventure, Fantasy, Historical, Romance</data>
+      <data key="d5">8.34</data>
+      <data key="d6">204.0</data>
+      <data key="d7">100</data>
+    </node>
+    <node id="1887">
+      <data key="d0">Lucky☆Star</data>
+      <data key="d1">TV</data>
+      <data key="d2">4-koma manga</data>
+      <data key="d3">24</data>
+      <data key="d4">Slice of Life, Comedy, Parody, School</data>
+      <data key="d5">7.83</data>
+      <data key="d6">830.0</data>
+      <data key="d7">135</data>
+    </node>
+    <node id="2476">
+      <data key="d0">School Days</data>
+      <data key="d1">TV</data>
+      <data key="d2">Visual novel</data>
+      <data key="d3">12</data>
+      <data key="d4">Harem, Drama, Romance, School</data>
+      <data key="d5">6.02</data>
+      <data key="d6">7313.0</data>
+      <data key="d7">145</data>
+    </node>
+    <node id="6347">
+      <data key="d0">Baka to Test to Shoukanjuu</data>
+      <data key="d1">TV</data>
+      <data key="d2">Light novel</data>
+      <data key="d3">13</data>
+      <data key="d4">Comedy, Romance, School, Super Power</data>
+      <data key="d5">7.76</data>
+      <data key="d6">959.0</data>
+      <data key="d7">129</data>
+    </node>
+    <node id="8769">
+      <data key="d0">Ore no Imouto ga Konnani Kawaii Wake ga Nai</data>
+      <data key="d1">TV</data>
+      <data key="d2">Light novel</data>
+      <data key="d3">12</data>
+      <data key="d4">Slice of Life, Comedy</data>
+      <data key="d5">7.34</data>
+      <data key="d6">2283.0</data>
+      <data key="d7">110</data>
+    </node>
+    <node id="1195">
+      <data key="d0">Zero no Tsukaima</data>
+      <data key="d1">TV</data>
+      <data key="d2">Light novel</data>
+      <data key="d3">13</data>
+      <data key="d4">Action, Adventure, Harem, Comedy, Magic, Romance, Ecchi, Fantasy, School</data>
+      <data key="d5">7.54</data>
+      <data key="d6">1543.0</data>
+      <data key="d7">94</data>
+    </node>
+    <node id="4181">
+      <data key="d0">Clannad: After Story</data>
+      <data key="d1">TV</data>
+      <data key="d2">Visual novel</data>
+      <data key="d3">24</data>
+      <data key="d4">Slice of Life, Comedy, Supernatural, Drama, Romance</data>
+      <data key="d5">9.01</data>
+      <data key="d6">14.0</data>
+      <data key="d7">55</data>
+    </node>
+    <node id="5680">
+      <data key="d0">K-On!</data>
+      <data key="d1">TV</data>
+      <data key="d2">4-koma manga</data>
+      <data key="d3">13</data>
+      <data key="d4">Slice of Life, Comedy, Music, School</data>
+      <data key="d5">7.86</data>
+      <data key="d6">783.0</data>
+      <data key="d7">80</data>
+    </node>
+    <node id="4898">
+      <data key="d0">Kuroshitsuji</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">24</data>
+      <data key="d4">Action, Comedy, Demons, Fantasy, Historical, Shounen, Supernatural</data>
+      <data key="d5">7.99</data>
+      <data key="d6">569.0</data>
+      <data key="d7">60</data>
+    </node>
+    <node id="6880">
+      <data key="d0">Deadman Wonderland</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">12</data>
+      <data key="d4">Action, Sci-Fi, Horror, Shounen</data>
+      <data key="d5">7.41</data>
+      <data key="d6">1966.0</data>
+      <data key="d7">53</data>
+    </node>
+    <node id="8525">
+      <data key="d0">Kami nomi zo Shiru Sekai</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">12</data>
+      <data key="d4">Comedy, Harem, Romance, Shounen, Supernatural</data>
+      <data key="d5">7.88</data>
+      <data key="d6">739.0</data>
+      <data key="d7">143</data>
+    </node>
+    <node id="10087">
+      <data key="d0">Fate/Zero</data>
+      <data key="d1">TV</data>
+      <data key="d2">Novel</data>
+      <data key="d3">13</data>
+      <data key="d4">Action, Supernatural, Magic, Fantasy</data>
+      <data key="d5">8.44</data>
+      <data key="d6">139.0</data>
+      <data key="d7">43</data>
+    </node>
+    <node id="10719">
+      <data key="d0">Boku wa Tomodachi ga Sukunai</data>
+      <data key="d1">TV</data>
+      <data key="d2">Light novel</data>
+      <data key="d3">12</data>
+      <data key="d4">Ecchi, Slice of Life, Comedy, Harem, Romance, School</data>
+      <data key="d5">7.47</data>
+      <data key="d6">1716.0</data>
+      <data key="d7">101</data>
+    </node>
+    <node id="10793">
+      <data key="d0">Guilty Crown</data>
+      <data key="d1">TV</data>
+      <data key="d2">Original</data>
+      <data key="d3">22</data>
+      <data key="d4">Action, Sci-Fi, Super Power, Drama, Romance</data>
+      <data key="d5">7.74</data>
+      <data key="d6">1016.0</data>
+      <data key="d7">49</data>
+    </node>
+    <node id="15809">
+      <data key="d0">Hataraku Maou-sama!</data>
+      <data key="d1">TV</data>
+      <data key="d2">Light novel</data>
+      <data key="d3">13</data>
+      <data key="d4">Comedy, Demons, Supernatural, Romance, Fantasy</data>
+      <data key="d5">7.98</data>
+      <data key="d6">578.0</data>
+      <data key="d7">51</data>
+    </node>
+    <node id="19815">
+      <data key="d0">No Game No Life</data>
+      <data key="d1">TV</data>
+      <data key="d2">Light novel</data>
+      <data key="d3">12</data>
+      <data key="d4">Game, Adventure, Comedy, Supernatural, Ecchi, Fantasy</data>
+      <data key="d5">8.41</data>
+      <data key="d6">162.0</data>
+      <data key="d7">11</data>
+    </node>
+    <node id="21881">
+      <data key="d0">Sword Art Online II</data>
+      <data key="d1">TV</data>
+      <data key="d2">Light novel</data>
+      <data key="d3">24</data>
+      <data key="d4">Action, Game, Adventure, Romance, Fantasy</data>
+      <data key="d5">7.2</data>
+      <data key="d6">2827.0</data>
+      <data key="d7">17</data>
+    </node>
+    <node id="1210">
+      <data key="d0">NHK ni Youkoso!</data>
+      <data key="d1">TV</data>
+      <data key="d2">Novel</data>
+      <data key="d3">24</data>
+      <data key="d4">Comedy, Psychological, Drama, Romance</data>
+      <data key="d5">8.38</data>
+      <data key="d6">178.0</data>
+      <data key="d7">132</data>
+    </node>
+    <node id="9756">
+      <data key="d0">Mahou Shoujo Madoka★Magica</data>
+      <data key="d1">TV</data>
+      <data key="d2">Original</data>
+      <data key="d3">12</data>
+      <data key="d4">Drama, Magic, Psychological, Thriller</data>
+      <data key="d5">8.46</data>
+      <data key="d6">125.0</data>
+      <data key="d7">50</data>
+    </node>
+    <node id="13759">
+      <data key="d0">Sakurasou no Pet na Kanojo</data>
+      <data key="d1">TV</data>
+      <data key="d2">Light novel</data>
+      <data key="d3">24</data>
+      <data key="d4">Comedy, Drama, Romance, School, Slice of Life</data>
+      <data key="d5">8.33</data>
+      <data key="d6">212.0</data>
+      <data key="d7">65</data>
+    </node>
+    <node id="14741">
+      <data key="d0">Chuunibyou demo Koi ga Shitai!</data>
+      <data key="d1">TV</data>
+      <data key="d2">Light novel</data>
+      <data key="d3">12</data>
+      <data key="d4">Slice of Life, Comedy, Drama, Romance, School</data>
+      <data key="d5">7.89</data>
+      <data key="d6">711.0</data>
+      <data key="d7">63</data>
+    </node>
+    <node id="11759">
+      <data key="d0">Accel World</data>
+      <data key="d1">TV</data>
+      <data key="d2">Light novel</data>
+      <data key="d3">24</data>
+      <data key="d4">Action, Game, Sci-Fi, Romance, School</data>
+      <data key="d5">7.53</data>
+      <data key="d6">1545.0</data>
+      <data key="d7">103</data>
+    </node>
+    <node id="164">
+      <data key="d0">Mononoke Hime</data>
+      <data key="d1">Movie</data>
+      <data key="d2">Original</data>
+      <data key="d3">1</data>
+      <data key="d4">Action, Adventure, Fantasy</data>
+      <data key="d5">8.8</data>
+      <data key="d6">29.0</data>
+      <data key="d7">79</data>
+    </node>
+    <node id="431">
+      <data key="d0">Howl no Ugoku Shiro</data>
+      <data key="d1">Movie</data>
+      <data key="d2">Novel</data>
+      <data key="d3">1</data>
+      <data key="d4">Adventure, Drama, Fantasy, Romance</data>
+      <data key="d5">8.73</data>
+      <data key="d6">43.0</data>
+      <data key="d7">89</data>
+    </node>
+    <node id="270">
+      <data key="d0">Hellsing</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">13</data>
+      <data key="d4">Action, Horror, Supernatural, Vampire, Seinen</data>
+      <data key="d5">7.6</data>
+      <data key="d6">1349.0</data>
+      <data key="d7">125</data>
+    </node>
+    <node id="1818">
+      <data key="d0">Claymore</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">26</data>
+      <data key="d4">Action, Adventure, Super Power, Demons, Supernatural, Fantasy, Shounen</data>
+      <data key="d5">7.87</data>
+      <data key="d6">752.0</data>
+      <data key="d7">119</data>
+    </node>
+    <node id="889">
+      <data key="d0">Black Lagoon</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">12</data>
+      <data key="d4">Action, Seinen</data>
+      <data key="d5">8.13</data>
+      <data key="d6">394.0</data>
+      <data key="d7">98</data>
+    </node>
+    <node id="227">
+      <data key="d0">FLCL</data>
+      <data key="d1">OVA</data>
+      <data key="d2">Original</data>
+      <data key="d3">6</data>
+      <data key="d4">Action, Sci-Fi, Comedy, Parody, Dementia, Psychological, Mecha</data>
+      <data key="d5">8.07</data>
+      <data key="d6">460.0</data>
+      <data key="d7">117</data>
+    </node>
+    <node id="245">
+      <data key="d0">Great Teacher Onizuka</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">43</data>
+      <data key="d4">Comedy, Drama, School, Shounen, Slice of Life</data>
+      <data key="d5">8.74</data>
+      <data key="d6">37.0</data>
+      <data key="d7">146</data>
+    </node>
+    <node id="457">
+      <data key="d0">Mushishi</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">26</data>
+      <data key="d4">Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural</data>
+      <data key="d5">8.74</data>
+      <data key="d6">38.0</data>
+      <data key="d7">115</data>
+    </node>
+    <node id="11061">
+      <data key="d0">Hunter x Hunter (2011)</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">148</data>
+      <data key="d4">Action, Adventure, Super Power, Shounen</data>
+      <data key="d5">9.11</data>
+      <data key="d6">8.0</data>
+      <data key="d7">35</data>
+    </node>
+    <node id="22535">
+      <data key="d0">Kiseijuu: Sei no Kakuritsu</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">24</data>
+      <data key="d4">Action, Sci-Fi, Horror, Psychological, Drama, Seinen</data>
+      <data key="d5">8.52</data>
+      <data key="d6">94.0</data>
+      <data key="d7">42</data>
+    </node>
+    <node id="28223">
+      <data key="d0">Death Parade</data>
+      <data key="d1">TV</data>
+      <data key="d2">Original</data>
+      <data key="d3">12</data>
+      <data key="d4">Game, Mystery, Psychological, Drama, Thriller</data>
+      <data key="d5">8.27</data>
+      <data key="d6">262.0</data>
+      <data key="d7">47</data>
+    </node>
+    <node id="31043">
+      <data key="d0">Boku dake ga Inai Machi</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">12</data>
+      <data key="d4">Mystery, Psychological, Seinen, Supernatural</data>
+      <data key="d5">8.56</data>
+      <data key="d6">77.0</data>
+      <data key="d7">40</data>
+    </node>
+    <node id="71">
+      <data key="d0">Full Metal Panic!</data>
+      <data key="d1">TV</data>
+      <data key="d2">Light novel</data>
+      <data key="d3">24</data>
+      <data key="d4">Action, Military, Sci-Fi, Comedy, Mecha</data>
+      <data key="d5">7.75</data>
+      <data key="d6">985.0</data>
+      <data key="d7">187</data>
+    </node>
+    <node id="813">
+      <data key="d0">Dragon Ball Z</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">291</data>
+      <data key="d4">Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power</data>
+      <data key="d5">8.31</data>
+      <data key="d6">228.0</data>
+      <data key="d7">70</data>
+    </node>
+    <node id="2993">
+      <data key="d0">Rosario to Vampire</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">13</data>
+      <data key="d4">Harem, Comedy, Romance, Ecchi, Vampire, Fantasy, School, Shounen</data>
+      <data key="d5">7.06</data>
+      <data key="d6">3344.0</data>
+      <data key="d7">130</data>
+    </node>
+    <node id="3457">
+      <data key="d0">Vampire Knight</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">13</data>
+      <data key="d4">Drama, Mystery, Romance, Shoujo, Supernatural, Vampire</data>
+      <data key="d5">7.3</data>
+      <data key="d6">2447.0</data>
+      <data key="d7">154</data>
+    </node>
+    <node id="22199">
+      <data key="d0">Akame ga Kill!</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">24</data>
+      <data key="d4">Action, Adventure, Drama, Fantasy, Shounen</data>
+      <data key="d5">7.8</data>
+      <data key="d6">869.0</data>
+      <data key="d7">25</data>
+    </node>
+    <node id="18153">
+      <data key="d0">Kyoukai no Kanata</data>
+      <data key="d1">TV</data>
+      <data key="d2">Light novel</data>
+      <data key="d3">12</data>
+      <data key="d4">Slice of Life, Supernatural, Fantasy</data>
+      <data key="d5">7.87</data>
+      <data key="d6">760.0</data>
+      <data key="d7">75</data>
+    </node>
+    <node id="31240">
+      <data key="d0">Re:Zero kara Hajimeru Isekai Seikatsu</data>
+      <data key="d1">TV</data>
+      <data key="d2">Light novel</data>
+      <data key="d3">25</data>
+      <data key="d4">Psychological, Drama, Thriller, Fantasy</data>
+      <data key="d5">8.43</data>
+      <data key="d6">153.0</data>
+      <data key="d7">36</data>
+    </node>
+    <node id="14345">
+      <data key="d0">Btooom!</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">12</data>
+      <data key="d4">Action, Sci-Fi, Psychological, Seinen</data>
+      <data key="d5">7.59</data>
+      <data key="d6">1371.0</data>
+      <data key="d7">94</data>
+    </node>
+    <node id="17265">
+      <data key="d0">Log Horizon</data>
+      <data key="d1">TV</data>
+      <data key="d2">Novel</data>
+      <data key="d3">25</data>
+      <data key="d4">Action, Game, Adventure, Magic, Fantasy</data>
+      <data key="d5">8.09</data>
+      <data key="d6">448.0</data>
+      <data key="d7">64</data>
+    </node>
+    <node id="23283">
+      <data key="d0">Zankyou no Terror</data>
+      <data key="d1">TV</data>
+      <data key="d2">Original</data>
+      <data key="d3">11</data>
+      <data key="d4">Mystery, Psychological, Thriller</data>
+      <data key="d5">8.21</data>
+      <data key="d6">311.0</data>
+      <data key="d7">76</data>
+    </node>
+    <node id="31964">
+      <data key="d0">Boku no Hero Academia</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">13</data>
+      <data key="d4">Action, Comedy, School, Shounen, Super Power</data>
+      <data key="d5">8.44</data>
+      <data key="d6">137.0</data>
+      <data key="d7">27</data>
+    </node>
+    <node id="32281">
+      <data key="d0">Kimi no Na wa.</data>
+      <data key="d1">Movie</data>
+      <data key="d2">Original</data>
+      <data key="d3">1</data>
+      <data key="d4">Supernatural, Drama, Romance, School</data>
+      <data key="d5">9.19</data>
+      <data key="d6">2.0</data>
+      <data key="d7">33</data>
+    </node>
+    <node id="25777">
+      <data key="d0">Shingeki no Kyojin Season 2</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">12</data>
+      <data key="d4">Action, Military, Mystery, Super Power, Drama, Fantasy, Shounen</data>
+      <data key="d5">8.47</data>
+      <data key="d6">123.0</data>
+      <data key="d7">46</data>
+    </node>
+    <node id="27899">
+      <data key="d0">Tokyo Ghoul √A</data>
+      <data key="d1">TV</data>
+      <data key="d2">Manga</data>
+      <data key="d3">12</data>
+      <data key="d4">Action, Mystery, Horror, Psychological, Supernatural, Drama, Seinen</data>
+      <data key="d5">7.45</data>
+      <data key="d6">1835.0</data>
+      <data key="d7">41</data>
+    </node>
+    <node id="4382">
+      <data key="d0">Suzumiya Haruhi no Yuuutsu (2009)</data>
+      <data key="d1">TV</data>
+      <data key="d2">Light novel</data>
+      <data key="d3">14</data>
+      <data key="d4">Sci-Fi, Slice of Life, Mystery, Comedy, Parody, Romance, School</data>
+      <data key="d5">7.27</data>
+      <data key="d6">2546.0</data>
+      <data key="d7">202</data>
+    </node>
+    <node id="7791">
+      <data key="d0">K-On!!</data>
+      <data key="d1">TV</data>
+      <data key="d2">4-koma manga</data>
+      <data key="d3">26</data>
+      <data key="d4">Comedy, Music, School, Slice of Life</data>
+      <data key="d5">8.14</data>
+      <data key="d6">383.0</data>
+      <data key="d7">183</data>
+    </node>
+    <node id="11741">
+      <data key="d0">Fate/Zero 2nd Season</data>
+      <data key="d1">TV</data>
+      <data key="d2">Novel</data>
+      <data key="d3">12</data>
+      <data key="d4">Action, Supernatural, Magic, Fantasy</data>
+      <data key="d5">8.66</data>
+      <data key="d6">54.0</data>
+      <data key="d7">81</data>
+    </node>
+    <node id="11617">
+      <data key="d0">High School DxD</data>
+      <data key="d1">TV</data>
+      <data key="d2">Light novel</data>
+      <data key="d3">12</data>
+      <data key="d4">Comedy, Demons, Ecchi, Harem, Romance, School</data>
+      <data key="d5">7.62</data>
+      <data key="d6">1294.0</data>
+      <data key="d7">56</data>
+    </node>
+    <node id="790">
+      <data key="d0">Ergo Proxy</data>
+      <data key="d1">TV</data>
+      <data key="d2">Original</data>
+      <data key="d3">23</data>
+      <data key="d4">Sci-Fi, Mystery, Psychological</data>
+      <data key="d5">7.99</data>
+      <data key="d6">566.0</data>
+      <data key="d7">161</data>
+    </node>
+    <edge source="21" target="269">
+      <data key="d8">35438.0</data>
+    </edge>
+    <edge source="21" target="1735">
+      <data key="d8">31731.0</data>
+    </edge>
+    <edge source="21" target="4224">
+      <data key="d8">30060.0</data>
+    </edge>
+    <edge source="21" target="20">
+      <data key="d8">36513.0</data>
+    </edge>
+    <edge source="21" target="121">
+      <data key="d8">31022.0</data>
+    </edge>
+    <edge source="21" target="226">
+      <data key="d8">31048.0</data>
+    </edge>
+    <edge source="21" target="1535">
+      <data key="d8">39315.0</data>
+    </edge>
+    <edge source="21" target="1575">
+      <data key="d8">34311.0</data>
+    </edge>
+    <edge source="21" target="3588">
+      <data key="d8">31402.0</data>
+    </edge>
+    <edge source="21" target="5114">
+      <data key="d8">34203.0</data>
+    </edge>
+    <edge source="21" target="6702">
+      <data key="d8">31461.0</data>
+    </edge>
+    <edge source="21" target="11757">
+      <data key="d8">31340.0</data>
+    </edge>
+    <edge source="21" target="16498">
+      <data key="d8">31793.0</data>
+    </edge>
+    <edge source="269" target="853">
+      <data key="d8">30321.0</data>
+    </edge>
+    <edge source="269" target="1735">
+      <data key="d8">40587.0</data>
+    </edge>
+    <edge source="269" target="4224">
+      <data key="d8">38379.0</data>
+    </edge>
+    <edge source="269" target="1">
+      <data key="d8">32339.0</data>
+    </edge>
+    <edge source="269" target="20">
+      <data key="d8">47733.0</data>
+    </edge>
+    <edge source="269" target="30">
+      <data key="d8">32325.0</data>
+    </edge>
+    <edge source="269" target="121">
+      <data key="d8">42053.0</data>
+    </edge>
+    <edge source="269" target="199">
+      <data key="d8">33748.0</data>
+    </edge>
+    <edge source="269" target="205">
+      <data key="d8">30510.0</data>
+    </edge>
+    <edge source="269" target="226">
+      <data key="d8">41653.0</data>
+    </edge>
+    <edge source="269" target="356">
+      <data key="d8">32322.0</data>
+    </edge>
+    <edge source="269" target="934">
+      <data key="d8">30018.0</data>
+    </edge>
+    <edge source="269" target="1482">
+      <data key="d8">31520.0</data>
+    </edge>
+    <edge source="269" target="1535">
+      <data key="d8">52212.0</data>
+    </edge>
+    <edge source="269" target="1575">
+      <data key="d8">45102.0</data>
+    </edge>
+    <edge source="269" target="2001">
+      <data key="d8">36798.0</data>
+    </edge>
+    <edge source="269" target="2025">
+      <data key="d8">34360.0</data>
+    </edge>
+    <edge source="269" target="2167">
+      <data key="d8">36618.0</data>
+    </edge>
+    <edge source="269" target="2904">
+      <data key="d8">38006.0</data>
+    </edge>
+    <edge source="269" target="3588">
+      <data key="d8">40047.0</data>
+    </edge>
+    <edge source="269" target="5081">
+      <data key="d8">33858.0</data>
+    </edge>
+    <edge source="269" target="5114">
+      <data key="d8">42857.0</data>
+    </edge>
+    <edge source="269" target="6702">
+      <data key="d8">37106.0</data>
+    </edge>
+    <edge source="269" target="6746">
+      <data key="d8">36562.0</data>
+    </edge>
+    <edge source="269" target="9253">
+      <data key="d8">34678.0</data>
+    </edge>
+    <edge source="269" target="9919">
+      <data key="d8">34271.0</data>
+    </edge>
+    <edge source="269" target="11757">
+      <data key="d8">37886.0</data>
+    </edge>
+    <edge source="269" target="16498">
+      <data key="d8">38092.0</data>
+    </edge>
+    <edge source="269" target="849">
+      <data key="d8">35637.0</data>
+    </edge>
+    <edge source="269" target="8074">
+      <data key="d8">34426.0</data>
+    </edge>
+    <edge source="269" target="10620">
+      <data key="d8">32870.0</data>
+    </edge>
+    <edge source="269" target="6547">
+      <data key="d8">36951.0</data>
+    </edge>
+    <edge source="1735" target="4224">
+      <data key="d8">33362.0</data>
+    </edge>
+    <edge source="1735" target="20">
+      <data key="d8">48113.0</data>
+    </edge>
+    <edge source="1735" target="121">
+      <data key="d8">34455.0</data>
+    </edge>
+    <edge source="1735" target="226">
+      <data key="d8">35086.0</data>
+    </edge>
+    <edge source="1735" target="1535">
+      <data key="d8">44372.0</data>
+    </edge>
+    <edge source="1735" target="1575">
+      <data key="d8">38030.0</data>
+    </edge>
+    <edge source="1735" target="2001">
+      <data key="d8">31283.0</data>
+    </edge>
+    <edge source="1735" target="2167">
+      <data key="d8">31581.0</data>
+    </edge>
+    <edge source="1735" target="2904">
+      <data key="d8">32706.0</data>
+    </edge>
+    <edge source="1735" target="3588">
+      <data key="d8">34058.0</data>
+    </edge>
+    <edge source="1735" target="5114">
+      <data key="d8">37574.0</data>
+    </edge>
+    <edge source="1735" target="6702">
+      <data key="d8">33175.0</data>
+    </edge>
+    <edge source="1735" target="6746">
+      <data key="d8">31332.0</data>
+    </edge>
+    <edge source="1735" target="9253">
+      <data key="d8">31019.0</data>
+    </edge>
+    <edge source="1735" target="9919">
+      <data key="d8">30514.0</data>
+    </edge>
+    <edge source="1735" target="11757">
+      <data key="d8">34385.0</data>
+    </edge>
+    <edge source="1735" target="16498">
+      <data key="d8">34536.0</data>
+    </edge>
+    <edge source="1735" target="8074">
+      <data key="d8">30317.0</data>
+    </edge>
+    <edge source="1735" target="6547">
+      <data key="d8">32737.0</data>
+    </edge>
+    <edge source="4224" target="853">
+      <data key="d8">33341.0</data>
+    </edge>
+    <edge source="4224" target="6045">
+      <data key="d8">33092.0</data>
+    </edge>
+    <edge source="4224" target="7054">
+      <data key="d8">35033.0</data>
+    </edge>
+    <edge source="4224" target="14227">
+      <data key="d8">31679.0</data>
+    </edge>
+    <edge source="4224" target="1">
+      <data key="d8">33068.0</data>
+    </edge>
+    <edge source="4224" target="20">
+      <data key="d8">40452.0</data>
+    </edge>
+    <edge source="4224" target="30">
+      <data key="d8">34700.0</data>
+    </edge>
+    <edge source="4224" target="121">
+      <data key="d8">37534.0</data>
+    </edge>
+    <edge source="4224" target="199">
+      <data key="d8">37193.0</data>
+    </edge>
+    <edge source="4224" target="226">
+      <data key="d8">43984.0</data>
+    </edge>
+    <edge source="4224" target="355">
+      <data key="d8">33283.0</data>
+    </edge>
+    <edge source="4224" target="356">
+      <data key="d8">34231.0</data>
+    </edge>
+    <edge source="4224" target="918">
+      <data key="d8">30009.0</data>
+    </edge>
+    <edge source="4224" target="934">
+      <data key="d8">35025.0</data>
+    </edge>
+    <edge source="4224" target="1535">
+      <data key="d8">52057.0</data>
+    </edge>
+    <edge source="4224" target="1575">
+      <data key="d8">46699.0</data>
+    </edge>
+    <edge source="4224" target="1689">
+      <data key="d8">34454.0</data>
+    </edge>
+    <edge source="4224" target="2001">
+      <data key="d8">40584.0</data>
+    </edge>
+    <edge source="4224" target="2025">
+      <data key="d8">35288.0</data>
+    </edge>
+    <edge source="4224" target="2167">
+      <data key="d8">46922.0</data>
+    </edge>
+    <edge source="4224" target="2236">
+      <data key="d8">31256.0</data>
+    </edge>
+    <edge source="4224" target="2251">
+      <data key="d8">31805.0</data>
+    </edge>
+    <edge source="4224" target="2904">
+      <data key="d8">39448.0</data>
+    </edge>
+    <edge source="4224" target="3588">
+      <data key="d8">40167.0</data>
+    </edge>
+    <edge source="4224" target="4654">
+      <data key="d8">32675.0</data>
+    </edge>
+    <edge source="4224" target="5081">
+      <data key="d8">43616.0</data>
+    </edge>
+    <edge source="4224" target="5114">
+      <data key="d8">44336.0</data>
+    </edge>
+    <edge source="4224" target="5630">
+      <data key="d8">30347.0</data>
+    </edge>
+    <edge source="4224" target="6702">
+      <data key="d8">36462.0</data>
+    </edge>
+    <edge source="4224" target="6746">
+      <data key="d8">42790.0</data>
+    </edge>
+    <edge source="4224" target="9253">
+      <data key="d8">43026.0</data>
+    </edge>
+    <edge source="4224" target="9919">
+      <data key="d8">37752.0</data>
+    </edge>
+    <edge source="4224" target="9989">
+      <data key="d8">38920.0</data>
+    </edge>
+    <edge source="4224" target="11111">
+      <data key="d8">37471.0</data>
+    </edge>
+    <edge source="4224" target="11757">
+      <data key="d8">46048.0</data>
+    </edge>
+    <edge source="4224" target="12189">
+      <data key="d8">34107.0</data>
+    </edge>
+    <edge source="4224" target="13601">
+      <data key="d8">33919.0</data>
+    </edge>
+    <edge source="4224" target="14813">
+      <data key="d8">31523.0</data>
+    </edge>
+    <edge source="4224" target="16498">
+      <data key="d8">44721.0</data>
+    </edge>
+    <edge source="4224" target="18679">
+      <data key="d8">32352.0</data>
+    </edge>
+    <edge source="4224" target="20507">
+      <data key="d8">34033.0</data>
+    </edge>
+    <edge source="4224" target="22319">
+      <data key="d8">33523.0</data>
+    </edge>
+    <edge source="4224" target="23273">
+      <data key="d8">30941.0</data>
+    </edge>
+    <edge source="4224" target="30276">
+      <data key="d8">32741.0</data>
+    </edge>
+    <edge source="4224" target="2966">
+      <data key="d8">33944.0</data>
+    </edge>
+    <edge source="4224" target="849">
+      <data key="d8">43233.0</data>
+    </edge>
+    <edge source="4224" target="1887">
+      <data key="d8">32613.0</data>
+    </edge>
+    <edge source="4224" target="2476">
+      <data key="d8">30256.0</data>
+    </edge>
+    <edge source="4224" target="6347">
+      <data key="d8">30162.0</data>
+    </edge>
+    <edge source="4224" target="8769">
+      <data key="d8">33946.0</data>
+    </edge>
+    <edge source="4224" target="1195">
+      <data key="d8">34793.0</data>
+    </edge>
+    <edge source="4224" target="4181">
+      <data key="d8">38841.0</data>
+    </edge>
+    <edge source="4224" target="5680">
+      <data key="d8">38679.0</data>
+    </edge>
+    <edge source="4224" target="4898">
+      <data key="d8">31279.0</data>
+    </edge>
+    <edge source="4224" target="6880">
+      <data key="d8">32427.0</data>
+    </edge>
+    <edge source="4224" target="8074">
+      <data key="d8">39582.0</data>
+    </edge>
+    <edge source="4224" target="8525">
+      <data key="d8">30119.0</data>
+    </edge>
+    <edge source="4224" target="10087">
+      <data key="d8">32613.0</data>
+    </edge>
+    <edge source="4224" target="10620">
+      <data key="d8">41287.0</data>
+    </edge>
+    <edge source="4224" target="10719">
+      <data key="d8">30792.0</data>
+    </edge>
+    <edge source="4224" target="10793">
+      <data key="d8">34106.0</data>
+    </edge>
+    <edge source="4224" target="15809">
+      <data key="d8">33224.0</data>
+    </edge>
+    <edge source="4224" target="19815">
+      <data key="d8">36008.0</data>
+    </edge>
+    <edge source="4224" target="6547">
+      <data key="d8">47947.0</data>
+    </edge>
+    <edge source="4224" target="21881">
+      <data key="d8">30347.0</data>
+    </edge>
+    <edge source="4224" target="1210">
+      <data key="d8">31669.0</data>
+    </edge>
+    <edge source="4224" target="9756">
+      <data key="d8">36104.0</data>
+    </edge>
+    <edge source="4224" target="13759">
+      <data key="d8">32361.0</data>
+    </edge>
+    <edge source="4224" target="14741">
+      <data key="d8">34101.0</data>
+    </edge>
+    <edge source="20" target="853">
+      <data key="d8">30720.0</data>
+    </edge>
+    <edge source="20" target="1">
+      <data key="d8">32805.0</data>
+    </edge>
+    <edge source="20" target="30">
+      <data key="d8">33218.0</data>
+    </edge>
+    <edge source="20" target="121">
+      <data key="d8">42081.0</data>
+    </edge>
+    <edge source="20" target="199">
+      <data key="d8">35629.0</data>
+    </edge>
+    <edge source="20" target="205">
+      <data key="d8">30695.0</data>
+    </edge>
+    <edge source="20" target="226">
+      <data key="d8">42858.0</data>
+    </edge>
+    <edge source="20" target="356">
+      <data key="d8">32397.0</data>
+    </edge>
+    <edge source="20" target="934">
+      <data key="d8">30654.0</data>
+    </edge>
+    <edge source="20" target="1482">
+      <data key="d8">30414.0</data>
+    </edge>
+    <edge source="20" target="1535">
+      <data key="d8">54127.0</data>
+    </edge>
+    <edge source="20" target="1575">
+      <data key="d8">45714.0</data>
+    </edge>
+    <edge source="20" target="2001">
+      <data key="d8">37895.0</data>
+    </edge>
+    <edge source="20" target="2025">
+      <data key="d8">34026.0</data>
+    </edge>
+    <edge source="20" target="2167">
+      <data key="d8">38351.0</data>
+    </edge>
+    <edge source="20" target="2904">
+      <data key="d8">38382.0</data>
+    </edge>
+    <edge source="20" target="3588">
+      <data key="d8">40531.0</data>
+    </edge>
+    <edge source="20" target="5081">
+      <data key="d8">35237.0</data>
+    </edge>
+    <edge source="20" target="5114">
+      <data key="d8">44297.0</data>
+    </edge>
+    <edge source="20" target="6702">
+      <data key="d8">37814.0</data>
+    </edge>
+    <edge source="20" target="6746">
+      <data key="d8">37695.0</data>
+    </edge>
+    <edge source="20" target="9253">
+      <data key="d8">36976.0</data>
+    </edge>
+    <edge source="20" target="9919">
+      <data key="d8">35500.0</data>
+    </edge>
+    <edge source="20" target="9989">
+      <data key="d8">30134.0</data>
+    </edge>
+    <edge source="20" target="11111">
+      <data key="d8">31853.0</data>
+    </edge>
+    <edge source="20" target="11757">
+      <data key="d8">40816.0</data>
+    </edge>
+    <edge source="20" target="16498">
+      <data key="d8">41073.0</data>
+    </edge>
+    <edge source="20" target="22319">
+      <data key="d8">30727.0</data>
+    </edge>
+    <edge source="20" target="849">
+      <data key="d8">36722.0</data>
+    </edge>
+    <edge source="20" target="4181">
+      <data key="d8">30618.0</data>
+    </edge>
+    <edge source="20" target="5680">
+      <data key="d8">30290.0</data>
+    </edge>
+    <edge source="20" target="4898">
+      <data key="d8">30042.0</data>
+    </edge>
+    <edge source="20" target="6880">
+      <data key="d8">30018.0</data>
+    </edge>
+    <edge source="20" target="8074">
+      <data key="d8">35822.0</data>
+    </edge>
+    <edge source="20" target="10620">
+      <data key="d8">35419.0</data>
+    </edge>
+    <edge source="20" target="19815">
+      <data key="d8">30154.0</data>
+    </edge>
+    <edge source="20" target="6547">
+      <data key="d8">39412.0</data>
+    </edge>
+    <edge source="121" target="853">
+      <data key="d8">30958.0</data>
+    </edge>
+    <edge source="121" target="1">
+      <data key="d8">33872.0</data>
+    </edge>
+    <edge source="121" target="30">
+      <data key="d8">34135.0</data>
+    </edge>
+    <edge source="121" target="199">
+      <data key="d8">35190.0</data>
+    </edge>
+    <edge source="121" target="205">
+      <data key="d8">30777.0</data>
+    </edge>
+    <edge source="121" target="226">
+      <data key="d8">41467.0</data>
+    </edge>
+    <edge source="121" target="356">
+      <data key="d8">31992.0</data>
+    </edge>
+    <edge source="121" target="934">
+      <data key="d8">30566.0</data>
+    </edge>
+    <edge source="121" target="1535">
+      <data key="d8">50518.0</data>
+    </edge>
+    <edge source="121" target="1575">
+      <data key="d8">44089.0</data>
+    </edge>
+    <edge source="121" target="2001">
+      <data key="d8">37321.0</data>
+    </edge>
+    <edge source="121" target="2025">
+      <data key="d8">33867.0</data>
+    </edge>
+    <edge source="121" target="2167">
+      <data key="d8">36129.0</data>
+    </edge>
+    <edge source="121" target="2904">
+      <data key="d8">37173.0</data>
+    </edge>
+    <edge source="121" target="3588">
+      <data key="d8">38909.0</data>
+    </edge>
+    <edge source="121" target="5081">
+      <data key="d8">33110.0</data>
+    </edge>
+    <edge source="121" target="5114">
+      <data key="d8">44973.0</data>
+    </edge>
+    <edge source="121" target="6702">
+      <data key="d8">32795.0</data>
+    </edge>
+    <edge source="121" target="6746">
+      <data key="d8">35792.0</data>
+    </edge>
+    <edge source="121" target="9253">
+      <data key="d8">33916.0</data>
+    </edge>
+    <edge source="121" target="9919">
+      <data key="d8">31865.0</data>
+    </edge>
+    <edge source="121" target="11757">
+      <data key="d8">35998.0</data>
+    </edge>
+    <edge source="121" target="16498">
+      <data key="d8">36520.0</data>
+    </edge>
+    <edge source="121" target="849">
+      <data key="d8">36553.0</data>
+    </edge>
+    <edge source="121" target="8074">
+      <data key="d8">32730.0</data>
+    </edge>
+    <edge source="121" target="10620">
+      <data key="d8">31450.0</data>
+    </edge>
+    <edge source="121" target="6547">
+      <data key="d8">35927.0</data>
+    </edge>
+    <edge source="226" target="853">
+      <data key="d8">31779.0</data>
+    </edge>
+    <edge source="226" target="1">
+      <data key="d8">35916.0</data>
+    </edge>
+    <edge source="226" target="30">
+      <data key="d8">38053.0</data>
+    </edge>
+    <edge source="226" target="164">
+      <data key="d8">30545.0</data>
+    </edge>
+    <edge source="226" target="199">
+      <data key="d8">38571.0</data>
+    </edge>
+    <edge source="226" target="205">
+      <data key="d8">32191.0</data>
+    </edge>
+    <edge source="226" target="270">
+      <data key="d8">30625.0</data>
+    </edge>
+    <edge source="226" target="355">
+      <data key="d8">31443.0</data>
+    </edge>
+    <edge source="226" target="356">
+      <data key="d8">35108.0</data>
+    </edge>
+    <edge source="226" target="431">
+      <data key="d8">30308.0</data>
+    </edge>
+    <edge source="226" target="934">
+      <data key="d8">38256.0</data>
+    </edge>
+    <edge source="226" target="1535">
+      <data key="d8">55972.0</data>
+    </edge>
+    <edge source="226" target="1575">
+      <data key="d8">48084.0</data>
+    </edge>
+    <edge source="226" target="1689">
+      <data key="d8">33007.0</data>
+    </edge>
+    <edge source="226" target="1818">
+      <data key="d8">32050.0</data>
+    </edge>
+    <edge source="226" target="2001">
+      <data key="d8">40837.0</data>
+    </edge>
+    <edge source="226" target="2025">
+      <data key="d8">37435.0</data>
+    </edge>
+    <edge source="226" target="2167">
+      <data key="d8">43191.0</data>
+    </edge>
+    <edge source="226" target="2236">
+      <data key="d8">30258.0</data>
+    </edge>
+    <edge source="226" target="2251">
+      <data key="d8">31615.0</data>
+    </edge>
+    <edge source="226" target="2904">
+      <data key="d8">40343.0</data>
+    </edge>
+    <edge source="226" target="3588">
+      <data key="d8">40767.0</data>
+    </edge>
+    <edge source="226" target="5081">
+      <data key="d8">40002.0</data>
+    </edge>
+    <edge source="226" target="5114">
+      <data key="d8">44307.0</data>
+    </edge>
+    <edge source="226" target="6702">
+      <data key="d8">35203.0</data>
+    </edge>
+    <edge source="226" target="6746">
+      <data key="d8">39855.0</data>
+    </edge>
+    <edge source="226" target="9253">
+      <data key="d8">40725.0</data>
+    </edge>
+    <edge source="226" target="9919">
+      <data key="d8">35617.0</data>
+    </edge>
+    <edge source="226" target="9989">
+      <data key="d8">33340.0</data>
+    </edge>
+    <edge source="226" target="11111">
+      <data key="d8">36916.0</data>
+    </edge>
+    <edge source="226" target="11757">
+      <data key="d8">42491.0</data>
+    </edge>
+    <edge source="226" target="13601">
+      <data key="d8">32525.0</data>
+    </edge>
+    <edge source="226" target="16498">
+      <data key="d8">42850.0</data>
+    </edge>
+    <edge source="226" target="18679">
+      <data key="d8">30419.0</data>
+    </edge>
+    <edge source="226" target="20507">
+      <data key="d8">30149.0</data>
+    </edge>
+    <edge source="226" target="22319">
+      <data key="d8">32215.0</data>
+    </edge>
+    <edge source="226" target="30276">
+      <data key="d8">30360.0</data>
+    </edge>
+    <edge source="226" target="2966">
+      <data key="d8">31805.0</data>
+    </edge>
+    <edge source="226" target="849">
+      <data key="d8">41330.0</data>
+    </edge>
+    <edge source="226" target="1887">
+      <data key="d8">31090.0</data>
+    </edge>
+    <edge source="226" target="2476">
+      <data key="d8">30241.0</data>
+    </edge>
+    <edge source="226" target="1195">
+      <data key="d8">31308.0</data>
+    </edge>
+    <edge source="226" target="4181">
+      <data key="d8">34879.0</data>
+    </edge>
+    <edge source="226" target="5680">
+      <data key="d8">33940.0</data>
+    </edge>
+    <edge source="226" target="889">
+      <data key="d8">31599.0</data>
+    </edge>
+    <edge source="226" target="4898">
+      <data key="d8">31305.0</data>
+    </edge>
+    <edge source="226" target="6880">
+      <data key="d8">33903.0</data>
+    </edge>
+    <edge source="226" target="8074">
+      <data key="d8">40416.0</data>
+    </edge>
+    <edge source="226" target="10087">
+      <data key="d8">30968.0</data>
+    </edge>
+    <edge source="226" target="10620">
+      <data key="d8">39924.0</data>
+    </edge>
+    <edge source="226" target="10793">
+      <data key="d8">31672.0</data>
+    </edge>
+    <edge source="226" target="19815">
+      <data key="d8">32241.0</data>
+    </edge>
+    <edge source="226" target="6547">
+      <data key="d8">43894.0</data>
+    </edge>
+    <edge source="226" target="1210">
+      <data key="d8">30621.0</data>
+    </edge>
+    <edge source="226" target="9756">
+      <data key="d8">33483.0</data>
+    </edge>
+    <edge source="1535" target="59">
+      <data key="d8">31606.0</data>
+    </edge>
+    <edge source="1535" target="853">
+      <data key="d8">39578.0</data>
+    </edge>
+    <edge source="1535" target="6045">
+      <data key="d8">32560.0</data>
+    </edge>
+    <edge source="1535" target="7054">
+      <data key="d8">34919.0</data>
+    </edge>
+    <edge source="1535" target="14227">
+      <data key="d8">30724.0</data>
+    </edge>
+    <edge source="1535" target="1">
+      <data key="d8">42253.0</data>
+    </edge>
+    <edge source="1535" target="30">
+      <data key="d8">43043.0</data>
+    </edge>
+    <edge source="1535" target="164">
+      <data key="d8">35418.0</data>
+    </edge>
+    <edge source="1535" target="199">
+      <data key="d8">46238.0</data>
+    </edge>
+    <edge source="1535" target="205">
+      <data key="d8">37748.0</data>
+    </edge>
+    <edge source="1535" target="227">
+      <data key="d8">32997.0</data>
+    </edge>
+    <edge source="1535" target="245">
+      <data key="d8">30872.0</data>
+    </edge>
+    <edge source="1535" target="270">
+      <data key="d8">34033.0</data>
+    </edge>
+    <edge source="1535" target="355">
+      <data key="d8">34492.0</data>
+    </edge>
+    <edge source="1535" target="356">
+      <data key="d8">39539.0</data>
+    </edge>
+    <edge source="1535" target="431">
+      <data key="d8">36113.0</data>
+    </edge>
+    <edge source="1535" target="457">
+      <data key="d8">32363.0</data>
+    </edge>
+    <edge source="1535" target="918">
+      <data key="d8">35535.0</data>
+    </edge>
+    <edge source="1535" target="934">
+      <data key="d8">40985.0</data>
+    </edge>
+    <edge source="1535" target="1482">
+      <data key="d8">35579.0</data>
+    </edge>
+    <edge source="1535" target="1575">
+      <data key="d8">58961.0</data>
+    </edge>
+    <edge source="1535" target="1689">
+      <data key="d8">38088.0</data>
+    </edge>
+    <edge source="1535" target="1818">
+      <data key="d8">34899.0</data>
+    </edge>
+    <edge source="1535" target="2001">
+      <data key="d8">47737.0</data>
+    </edge>
+    <edge source="1535" target="2025">
+      <data key="d8">43382.0</data>
+    </edge>
+    <edge source="1535" target="2167">
+      <data key="d8">49644.0</data>
+    </edge>
+    <edge source="1535" target="2236">
+      <data key="d8">35005.0</data>
+    </edge>
+    <edge source="1535" target="2251">
+      <data key="d8">37445.0</data>
+    </edge>
+    <edge source="1535" target="2904">
+      <data key="d8">48940.0</data>
+    </edge>
+    <edge source="1535" target="3588">
+      <data key="d8">49227.0</data>
+    </edge>
+    <edge source="1535" target="4654">
+      <data key="d8">32385.0</data>
+    </edge>
+    <edge source="1535" target="5081">
+      <data key="d8">45386.0</data>
+    </edge>
+    <edge source="1535" target="5114">
+      <data key="d8">55417.0</data>
+    </edge>
+    <edge source="1535" target="5630">
+      <data key="d8">32871.0</data>
+    </edge>
+    <edge source="1535" target="6702">
+      <data key="d8">43406.0</data>
+    </edge>
+    <edge source="1535" target="6746">
+      <data key="d8">48554.0</data>
+    </edge>
+    <edge source="1535" target="9253">
+      <data key="d8">48875.0</data>
+    </edge>
+    <edge source="1535" target="9919">
+      <data key="d8">43715.0</data>
+    </edge>
+    <edge source="1535" target="9989">
+      <data key="d8">39363.0</data>
+    </edge>
+    <edge source="1535" target="11061">
+      <data key="d8">30154.0</data>
+    </edge>
+    <edge source="1535" target="11111">
+      <data key="d8">42409.0</data>
+    </edge>
+    <edge source="1535" target="11757">
+      <data key="d8">51806.0</data>
+    </edge>
+    <edge source="1535" target="12189">
+      <data key="d8">33493.0</data>
+    </edge>
+    <edge source="1535" target="13601">
+      <data key="d8">39088.0</data>
+    </edge>
+    <edge source="1535" target="16498">
+      <data key="d8">53062.0</data>
+    </edge>
+    <edge source="1535" target="18679">
+      <data key="d8">35574.0</data>
+    </edge>
+    <edge source="1535" target="20507">
+      <data key="d8">36985.0</data>
+    </edge>
+    <edge source="1535" target="22319">
+      <data key="d8">39434.0</data>
+    </edge>
+    <edge source="1535" target="22535">
+      <data key="d8">32078.0</data>
+    </edge>
+    <edge source="1535" target="23273">
+      <data key="d8">31706.0</data>
+    </edge>
+    <edge source="1535" target="28223">
+      <data key="d8">31125.0</data>
+    </edge>
+    <edge source="1535" target="30276">
+      <data key="d8">37742.0</data>
+    </edge>
+    <edge source="1535" target="31043">
+      <data key="d8">32151.0</data>
+    </edge>
+    <edge source="1535" target="71">
+      <data key="d8">31663.0</data>
+    </edge>
+    <edge source="1535" target="813">
+      <data key="d8">33027.0</data>
+    </edge>
+    <edge source="1535" target="2966">
+      <data key="d8">34945.0</data>
+    </edge>
+    <edge source="1535" target="1887">
+      <data key="d8">35399.0</data>
+    </edge>
+    <edge source="1535" target="2476">
+      <data key="d8">32503.0</data>
+    </edge>
+    <edge source="1535" target="8769">
+      <data key="d8">31851.0</data>
+    </edge>
+    <edge source="1535" target="1195">
+      <data key="d8">34564.0</data>
+    </edge>
+    <edge source="1535" target="2993">
+      <data key="d8">31302.0</data>
+    </edge>
+    <edge source="1535" target="4181">
+      <data key="d8">39827.0</data>
+    </edge>
+    <edge source="1535" target="5680">
+      <data key="d8">39264.0</data>
+    </edge>
+    <edge source="1535" target="3457">
+      <data key="d8">32407.0</data>
+    </edge>
+    <edge source="1535" target="4898">
+      <data key="d8">38527.0</data>
+    </edge>
+    <edge source="1535" target="6880">
+      <data key="d8">38184.0</data>
+    </edge>
+    <edge source="1535" target="8074">
+      <data key="d8">45155.0</data>
+    </edge>
+    <edge source="1535" target="10087">
+      <data key="d8">36469.0</data>
+    </edge>
+    <edge source="1535" target="10620">
+      <data key="d8">46641.0</data>
+    </edge>
+    <edge source="1535" target="10793">
+      <data key="d8">36587.0</data>
+    </edge>
+    <edge source="1535" target="15809">
+      <data key="d8">33776.0</data>
+    </edge>
+    <edge source="1535" target="19815">
+      <data key="d8">38591.0</data>
+    </edge>
+    <edge source="1535" target="22199">
+      <data key="d8">32306.0</data>
+    </edge>
+    <edge source="1535" target="6547">
+      <data key="d8">51364.0</data>
+    </edge>
+    <edge source="1535" target="21881">
+      <data key="d8">33141.0</data>
+    </edge>
+    <edge source="1535" target="9756">
+      <data key="d8">38424.0</data>
+    </edge>
+    <edge source="1535" target="13759">
+      <data key="d8">30086.0</data>
+    </edge>
+    <edge source="1535" target="14741">
+      <data key="d8">32569.0</data>
+    </edge>
+    <edge source="1535" target="849">
+      <data key="d8">47435.0</data>
+    </edge>
+    <edge source="1535" target="889">
+      <data key="d8">34886.0</data>
+    </edge>
+    <edge source="1535" target="790">
+      <data key="d8">30811.0</data>
+    </edge>
+    <edge source="1535" target="1210">
+      <data key="d8">34662.0</data>
+    </edge>
+    <edge source="1575" target="853">
+      <data key="d8">34259.0</data>
+    </edge>
+    <edge source="1575" target="7054">
+      <data key="d8">31282.0</data>
+    </edge>
+    <edge source="1575" target="1">
+      <data key="d8">38007.0</data>
+    </edge>
+    <edge source="1575" target="30">
+      <data key="d8">39586.0</data>
+    </edge>
+    <edge source="1575" target="164">
+      <data key="d8">31145.0</data>
+    </edge>
+    <edge source="1575" target="199">
+      <data key="d8">39535.0</data>
+    </edge>
+    <edge source="1575" target="205">
+      <data key="d8">34154.0</data>
+    </edge>
+    <edge source="1575" target="355">
+      <data key="d8">32975.0</data>
+    </edge>
+    <edge source="1575" target="356">
+      <data key="d8">37744.0</data>
+    </edge>
+    <edge source="1575" target="431">
+      <data key="d8">31279.0</data>
+    </edge>
+    <edge source="1575" target="918">
+      <data key="d8">32477.0</data>
+    </edge>
+    <edge source="1575" target="934">
+      <data key="d8">36829.0</data>
+    </edge>
+    <edge source="1575" target="1482">
+      <data key="d8">32820.0</data>
+    </edge>
+    <edge source="1575" target="1689">
+      <data key="d8">34200.0</data>
+    </edge>
+    <edge source="1575" target="1818">
+      <data key="d8">32209.0</data>
+    </edge>
+    <edge source="1575" target="2001">
+      <data key="d8">45067.0</data>
+    </edge>
+    <edge source="1575" target="2025">
+      <data key="d8">40709.0</data>
+    </edge>
+    <edge source="1575" target="2167">
+      <data key="d8">45145.0</data>
+    </edge>
+    <edge source="1575" target="2236">
+      <data key="d8">31499.0</data>
+    </edge>
+    <edge source="1575" target="2251">
+      <data key="d8">35203.0</data>
+    </edge>
+    <edge source="1575" target="2904">
+      <data key="d8">54769.0</data>
+    </edge>
+    <edge source="1575" target="3588">
+      <data key="d8">43672.0</data>
+    </edge>
+    <edge source="1575" target="4654">
+      <data key="d8">31507.0</data>
+    </edge>
+    <edge source="1575" target="5081">
+      <data key="d8">42070.0</data>
+    </edge>
+    <edge source="1575" target="5114">
+      <data key="d8">49390.0</data>
+    </edge>
+    <edge source="1575" target="5630">
+      <data key="d8">30716.0</data>
+    </edge>
+    <edge source="1575" target="6702">
+      <data key="d8">38221.0</data>
+    </edge>
+    <edge source="1575" target="6746">
+      <data key="d8">44148.0</data>
+    </edge>
+    <edge source="1575" target="9253">
+      <data key="d8">44352.0</data>
+    </edge>
+    <edge source="1575" target="9919">
+      <data key="d8">38711.0</data>
+    </edge>
+    <edge source="1575" target="9989">
+      <data key="d8">35476.0</data>
+    </edge>
+    <edge source="1575" target="11111">
+      <data key="d8">36673.0</data>
+    </edge>
+    <edge source="1575" target="11757">
+      <data key="d8">45441.0</data>
+    </edge>
+    <edge source="1575" target="12189">
+      <data key="d8">30526.0</data>
+    </edge>
+    <edge source="1575" target="13601">
+      <data key="d8">35636.0</data>
+    </edge>
+    <edge source="1575" target="16498">
+      <data key="d8">45834.0</data>
+    </edge>
+    <edge source="1575" target="18679">
+      <data key="d8">32043.0</data>
+    </edge>
+    <edge source="1575" target="20507">
+      <data key="d8">32741.0</data>
+    </edge>
+    <edge source="1575" target="22319">
+      <data key="d8">33951.0</data>
+    </edge>
+    <edge source="1575" target="30276">
+      <data key="d8">33237.0</data>
+    </edge>
+    <edge source="1575" target="71">
+      <data key="d8">30384.0</data>
+    </edge>
+    <edge source="1575" target="2966">
+      <data key="d8">33140.0</data>
+    </edge>
+    <edge source="1575" target="1887">
+      <data key="d8">31567.0</data>
+    </edge>
+    <edge source="1575" target="1195">
+      <data key="d8">32560.0</data>
+    </edge>
+    <edge source="1575" target="4181">
+      <data key="d8">36739.0</data>
+    </edge>
+    <edge source="1575" target="5680">
+      <data key="d8">35205.0</data>
+    </edge>
+    <edge source="1575" target="4898">
+      <data key="d8">33690.0</data>
+    </edge>
+    <edge source="1575" target="6880">
+      <data key="d8">33852.0</data>
+    </edge>
+    <edge source="1575" target="8074">
+      <data key="d8">40046.0</data>
+    </edge>
+    <edge source="1575" target="10087">
+      <data key="d8">34626.0</data>
+    </edge>
+    <edge source="1575" target="10620">
+      <data key="d8">40664.0</data>
+    </edge>
+    <edge source="1575" target="10793">
+      <data key="d8">34561.0</data>
+    </edge>
+    <edge source="1575" target="15809">
+      <data key="d8">30785.0</data>
+    </edge>
+    <edge source="1575" target="19815">
+      <data key="d8">34382.0</data>
+    </edge>
+    <edge source="1575" target="6547">
+      <data key="d8">46092.0</data>
+    </edge>
+    <edge source="1575" target="9756">
+      <data key="d8">35063.0</data>
+    </edge>
+    <edge source="1575" target="849">
+      <data key="d8">43392.0</data>
+    </edge>
+    <edge source="1575" target="889">
+      <data key="d8">32782.0</data>
+    </edge>
+    <edge source="1575" target="1210">
+      <data key="d8">31862.0</data>
+    </edge>
+    <edge source="3588" target="853">
+      <data key="d8">30842.0</data>
+    </edge>
+    <edge source="3588" target="1">
+      <data key="d8">31912.0</data>
+    </edge>
+    <edge source="3588" target="30">
+      <data key="d8">32297.0</data>
+    </edge>
+    <edge source="3588" target="199">
+      <data key="d8">34113.0</data>
+    </edge>
+    <edge source="3588" target="356">
+      <data key="d8">31299.0</data>
+    </edge>
+    <edge source="3588" target="934">
+      <data key="d8">31296.0</data>
+    </edge>
+    <edge source="3588" target="1482">
+      <data key="d8">30827.0</data>
+    </edge>
+    <edge source="3588" target="2001">
+      <data key="d8">38358.0</data>
+    </edge>
+    <edge source="3588" target="2025">
+      <data key="d8">34475.0</data>
+    </edge>
+    <edge source="3588" target="2167">
+      <data key="d8">37163.0</data>
+    </edge>
+    <edge source="3588" target="2904">
+      <data key="d8">36863.0</data>
+    </edge>
+    <edge source="3588" target="5081">
+      <data key="d8">35837.0</data>
+    </edge>
+    <edge source="3588" target="5114">
+      <data key="d8">42644.0</data>
+    </edge>
+    <edge source="3588" target="6702">
+      <data key="d8">36208.0</data>
+    </edge>
+    <edge source="3588" target="6746">
+      <data key="d8">38958.0</data>
+    </edge>
+    <edge source="3588" target="9253">
+      <data key="d8">36543.0</data>
+    </edge>
+    <edge source="3588" target="9919">
+      <data key="d8">36070.0</data>
+    </edge>
+    <edge source="3588" target="9989">
+      <data key="d8">30010.0</data>
+    </edge>
+    <edge source="3588" target="11111">
+      <data key="d8">31927.0</data>
+    </edge>
+    <edge source="3588" target="11757">
+      <data key="d8">39127.0</data>
+    </edge>
+    <edge source="3588" target="13601">
+      <data key="d8">30176.0</data>
+    </edge>
+    <edge source="3588" target="16498">
+      <data key="d8">39326.0</data>
+    </edge>
+    <edge source="3588" target="5680">
+      <data key="d8">31000.0</data>
+    </edge>
+    <edge source="3588" target="4898">
+      <data key="d8">31330.0</data>
+    </edge>
+    <edge source="3588" target="6880">
+      <data key="d8">31130.0</data>
+    </edge>
+    <edge source="3588" target="8074">
+      <data key="d8">35437.0</data>
+    </edge>
+    <edge source="3588" target="10620">
+      <data key="d8">35320.0</data>
+    </edge>
+    <edge source="3588" target="6547">
+      <data key="d8">39368.0</data>
+    </edge>
+    <edge source="3588" target="9756">
+      <data key="d8">30230.0</data>
+    </edge>
+    <edge source="3588" target="849">
+      <data key="d8">36145.0</data>
+    </edge>
+    <edge source="5114" target="853">
+      <data key="d8">30894.0</data>
+    </edge>
+    <edge source="5114" target="1">
+      <data key="d8">36679.0</data>
+    </edge>
+    <edge source="5114" target="30">
+      <data key="d8">36484.0</data>
+    </edge>
+    <edge source="5114" target="199">
+      <data key="d8">38056.0</data>
+    </edge>
+    <edge source="5114" target="205">
+      <data key="d8">32664.0</data>
+    </edge>
+    <edge source="5114" target="356">
+      <data key="d8">34107.0</data>
+    </edge>
+    <edge source="5114" target="918">
+      <data key="d8">31972.0</data>
+    </edge>
+    <edge source="5114" target="934">
+      <data key="d8">33070.0</data>
+    </edge>
+    <edge source="5114" target="1482">
+      <data key="d8">30761.0</data>
+    </edge>
+    <edge source="5114" target="1689">
+      <data key="d8">32138.0</data>
+    </edge>
+    <edge source="5114" target="2001">
+      <data key="d8">42238.0</data>
+    </edge>
+    <edge source="5114" target="2025">
+      <data key="d8">37330.0</data>
+    </edge>
+    <edge source="5114" target="2167">
+      <data key="d8">41601.0</data>
+    </edge>
+    <edge source="5114" target="2251">
+      <data key="d8">33518.0</data>
+    </edge>
+    <edge source="5114" target="2904">
+      <data key="d8">42320.0</data>
+    </edge>
+    <edge source="5114" target="5081">
+      <data key="d8">39950.0</data>
+    </edge>
+    <edge source="5114" target="6702">
+      <data key="d8">38939.0</data>
+    </edge>
+    <edge source="5114" target="6746">
+      <data key="d8">42807.0</data>
+    </edge>
+    <edge source="5114" target="9253">
+      <data key="d8">44023.0</data>
+    </edge>
+    <edge source="5114" target="9919">
+      <data key="d8">39042.0</data>
+    </edge>
+    <edge source="5114" target="9989">
+      <data key="d8">35123.0</data>
+    </edge>
+    <edge source="5114" target="11111">
+      <data key="d8">36408.0</data>
+    </edge>
+    <edge source="5114" target="11757">
+      <data key="d8">45837.0</data>
+    </edge>
+    <edge source="5114" target="12189">
+      <data key="d8">30079.0</data>
+    </edge>
+    <edge source="5114" target="13601">
+      <data key="d8">35422.0</data>
+    </edge>
+    <edge source="5114" target="16498">
+      <data key="d8">46958.0</data>
+    </edge>
+    <edge source="5114" target="18679">
+      <data key="d8">32840.0</data>
+    </edge>
+    <edge source="5114" target="20507">
+      <data key="d8">33590.0</data>
+    </edge>
+    <edge source="5114" target="22319">
+      <data key="d8">34934.0</data>
+    </edge>
+    <edge source="5114" target="30276">
+      <data key="d8">34933.0</data>
+    </edge>
+    <edge source="5114" target="2966">
+      <data key="d8">30604.0</data>
+    </edge>
+    <edge source="5114" target="4181">
+      <data key="d8">34659.0</data>
+    </edge>
+    <edge source="5114" target="5680">
+      <data key="d8">33174.0</data>
+    </edge>
+    <edge source="5114" target="6880">
+      <data key="d8">33698.0</data>
+    </edge>
+    <edge source="5114" target="8074">
+      <data key="d8">38963.0</data>
+    </edge>
+    <edge source="5114" target="10087">
+      <data key="d8">34346.0</data>
+    </edge>
+    <edge source="5114" target="10620">
+      <data key="d8">40510.0</data>
+    </edge>
+    <edge source="5114" target="10793">
+      <data key="d8">33088.0</data>
+    </edge>
+    <edge source="5114" target="15809">
+      <data key="d8">30832.0</data>
+    </edge>
+    <edge source="5114" target="19815">
+      <data key="d8">34941.0</data>
+    </edge>
+    <edge source="5114" target="6547">
+      <data key="d8">44771.0</data>
+    </edge>
+    <edge source="5114" target="21881">
+      <data key="d8">30337.0</data>
+    </edge>
+    <edge source="5114" target="9756">
+      <data key="d8">34254.0</data>
+    </edge>
+    <edge source="5114" target="849">
+      <data key="d8">38945.0</data>
+    </edge>
+    <edge source="5114" target="889">
+      <data key="d8">30628.0</data>
+    </edge>
+    <edge source="5114" target="4898">
+      <data key="d8">31755.0</data>
+    </edge>
+    <edge source="6702" target="2001">
+      <data key="d8">32171.0</data>
+    </edge>
+    <edge source="6702" target="2167">
+      <data key="d8">33684.0</data>
+    </edge>
+    <edge source="6702" target="2904">
+      <data key="d8">32428.0</data>
+    </edge>
+    <edge source="6702" target="5081">
+      <data key="d8">32298.0</data>
+    </edge>
+    <edge source="6702" target="6746">
+      <data key="d8">34973.0</data>
+    </edge>
+    <edge source="6702" target="9253">
+      <data key="d8">34527.0</data>
+    </edge>
+    <edge source="6702" target="9919">
+      <data key="d8">35292.0</data>
+    </edge>
+    <edge source="6702" target="11111">
+      <data key="d8">30529.0</data>
+    </edge>
+    <edge source="6702" target="11757">
+      <data key="d8">39535.0</data>
+    </edge>
+    <edge source="6702" target="16498">
+      <data key="d8">38465.0</data>
+    </edge>
+    <edge source="6702" target="8074">
+      <data key="d8">33979.0</data>
+    </edge>
+    <edge source="6702" target="10620">
+      <data key="d8">34174.0</data>
+    </edge>
+    <edge source="6702" target="6547">
+      <data key="d8">37734.0</data>
+    </edge>
+    <edge source="11757" target="7054">
+      <data key="d8">32079.0</data>
+    </edge>
+    <edge source="11757" target="11759">
+      <data key="d8">30060.0</data>
+    </edge>
+    <edge source="11757" target="14227">
+      <data key="d8">32204.0</data>
+    </edge>
+    <edge source="11757" target="1">
+      <data key="d8">31810.0</data>
+    </edge>
+    <edge source="11757" target="30">
+      <data key="d8">32845.0</data>
+    </edge>
+    <edge source="11757" target="199">
+      <data key="d8">35325.0</data>
+    </edge>
+    <edge source="11757" target="356">
+      <data key="d8">32750.0</data>
+    </edge>
+    <edge source="11757" target="934">
+      <data key="d8">31455.0</data>
+    </edge>
+    <edge source="11757" target="1689">
+      <data key="d8">31325.0</data>
+    </edge>
+    <edge source="11757" target="2001">
+      <data key="d8">38921.0</data>
+    </edge>
+    <edge source="11757" target="2025">
+      <data key="d8">33821.0</data>
+    </edge>
+    <edge source="11757" target="2167">
+      <data key="d8">42333.0</data>
+    </edge>
+    <edge source="11757" target="2904">
+      <data key="d8">38352.0</data>
+    </edge>
+    <edge source="11757" target="4654">
+      <data key="d8">30488.0</data>
+    </edge>
+    <edge source="11757" target="5081">
+      <data key="d8">40862.0</data>
+    </edge>
+    <edge source="11757" target="6746">
+      <data key="d8">41623.0</data>
+    </edge>
+    <edge source="11757" target="9253">
+      <data key="d8">46392.0</data>
+    </edge>
+    <edge source="11757" target="9919">
+      <data key="d8">41820.0</data>
+    </edge>
+    <edge source="11757" target="9989">
+      <data key="d8">38582.0</data>
+    </edge>
+    <edge source="11757" target="11111">
+      <data key="d8">41315.0</data>
+    </edge>
+    <edge source="11757" target="12189">
+      <data key="d8">34973.0</data>
+    </edge>
+    <edge source="11757" target="13601">
+      <data key="d8">38300.0</data>
+    </edge>
+    <edge source="11757" target="14813">
+      <data key="d8">32751.0</data>
+    </edge>
+    <edge source="11757" target="16498">
+      <data key="d8">52217.0</data>
+    </edge>
+    <edge source="11757" target="18153">
+      <data key="d8">31954.0</data>
+    </edge>
+    <edge source="11757" target="18679">
+      <data key="d8">36050.0</data>
+    </edge>
+    <edge source="11757" target="20507">
+      <data key="d8">38185.0</data>
+    </edge>
+    <edge source="11757" target="22319">
+      <data key="d8">39612.0</data>
+    </edge>
+    <edge source="11757" target="22535">
+      <data key="d8">31957.0</data>
+    </edge>
+    <edge source="11757" target="23273">
+      <data key="d8">32998.0</data>
+    </edge>
+    <edge source="11757" target="28223">
+      <data key="d8">30523.0</data>
+    </edge>
+    <edge source="11757" target="30276">
+      <data key="d8">37345.0</data>
+    </edge>
+    <edge source="11757" target="31043">
+      <data key="d8">32277.0</data>
+    </edge>
+    <edge source="11757" target="31240">
+      <data key="d8">30604.0</data>
+    </edge>
+    <edge source="11757" target="2966">
+      <data key="d8">30141.0</data>
+    </edge>
+    <edge source="11757" target="1195">
+      <data key="d8">30939.0</data>
+    </edge>
+    <edge source="11757" target="4181">
+      <data key="d8">35222.0</data>
+    </edge>
+    <edge source="11757" target="5680">
+      <data key="d8">33379.0</data>
+    </edge>
+    <edge source="11757" target="14345">
+      <data key="d8">30903.0</data>
+    </edge>
+    <edge source="11757" target="15809">
+      <data key="d8">36318.0</data>
+    </edge>
+    <edge source="11757" target="19815">
+      <data key="d8">41357.0</data>
+    </edge>
+    <edge source="11757" target="22199">
+      <data key="d8">34454.0</data>
+    </edge>
+    <edge source="11757" target="17265">
+      <data key="d8">31892.0</data>
+    </edge>
+    <edge source="11757" target="6547">
+      <data key="d8">48732.0</data>
+    </edge>
+    <edge source="11757" target="21881">
+      <data key="d8">38764.0</data>
+    </edge>
+    <edge source="11757" target="13759">
+      <data key="d8">33424.0</data>
+    </edge>
+    <edge source="11757" target="14741">
+      <data key="d8">35540.0</data>
+    </edge>
+    <edge source="11757" target="849">
+      <data key="d8">36886.0</data>
+    </edge>
+    <edge source="11757" target="8769">
+      <data key="d8">31857.0</data>
+    </edge>
+    <edge source="11757" target="4898">
+      <data key="d8">30013.0</data>
+    </edge>
+    <edge source="11757" target="6880">
+      <data key="d8">35564.0</data>
+    </edge>
+    <edge source="11757" target="8074">
+      <data key="d8">41368.0</data>
+    </edge>
+    <edge source="11757" target="10087">
+      <data key="d8">36224.0</data>
+    </edge>
+    <edge source="11757" target="10620">
+      <data key="d8">45988.0</data>
+    </edge>
+    <edge source="11757" target="10719">
+      <data key="d8">31220.0</data>
+    </edge>
+    <edge source="11757" target="10793">
+      <data key="d8">38257.0</data>
+    </edge>
+    <edge source="11757" target="11617">
+      <data key="d8">31566.0</data>
+    </edge>
+    <edge source="11757" target="9756">
+      <data key="d8">36394.0</data>
+    </edge>
+    <edge source="16498" target="7054">
+      <data key="d8">30835.0</data>
+    </edge>
+    <edge source="16498" target="14227">
+      <data key="d8">31380.0</data>
+    </edge>
+    <edge source="16498" target="1">
+      <data key="d8">33467.0</data>
+    </edge>
+    <edge source="16498" target="30">
+      <data key="d8">34179.0</data>
+    </edge>
+    <edge source="16498" target="199">
+      <data key="d8">36951.0</data>
+    </edge>
+    <edge source="16498" target="356">
+      <data key="d8">31814.0</data>
+    </edge>
+    <edge source="16498" target="918">
+      <data key="d8">30382.0</data>
+    </edge>
+    <edge source="16498" target="934">
+      <data key="d8">32048.0</data>
+    </edge>
+    <edge source="16498" target="1689">
+      <data key="d8">31845.0</data>
+    </edge>
+    <edge source="16498" target="2001">
+      <data key="d8">39548.0</data>
+    </edge>
+    <edge source="16498" target="2025">
+      <data key="d8">34414.0</data>
+    </edge>
+    <edge source="16498" target="2167">
+      <data key="d8">41042.0</data>
+    </edge>
+    <edge source="16498" target="2251">
+      <data key="d8">31514.0</data>
+    </edge>
+    <edge source="16498" target="2904">
+      <data key="d8">38446.0</data>
+    </edge>
+    <edge source="16498" target="5081">
+      <data key="d8">40369.0</data>
+    </edge>
+    <edge source="16498" target="6746">
+      <data key="d8">42523.0</data>
+    </edge>
+    <edge source="16498" target="9253">
+      <data key="d8">46966.0</data>
+    </edge>
+    <edge source="16498" target="9919">
+      <data key="d8">41376.0</data>
+    </edge>
+    <edge source="16498" target="9989">
+      <data key="d8">38224.0</data>
+    </edge>
+    <edge source="16498" target="11061">
+      <data key="d8">30203.0</data>
+    </edge>
+    <edge source="16498" target="11111">
+      <data key="d8">41299.0</data>
+    </edge>
+    <edge source="16498" target="12189">
+      <data key="d8">34070.0</data>
+    </edge>
+    <edge source="16498" target="13601">
+      <data key="d8">39841.0</data>
+    </edge>
+    <edge source="16498" target="14813">
+      <data key="d8">31951.0</data>
+    </edge>
+    <edge source="16498" target="18153">
+      <data key="d8">32216.0</data>
+    </edge>
+    <edge source="16498" target="18679">
+      <data key="d8">37513.0</data>
+    </edge>
+    <edge source="16498" target="20507">
+      <data key="d8">38986.0</data>
+    </edge>
+    <edge source="16498" target="22319">
+      <data key="d8">41386.0</data>
+    </edge>
+    <edge source="16498" target="22535">
+      <data key="d8">33559.0</data>
+    </edge>
+    <edge source="16498" target="23273">
+      <data key="d8">33266.0</data>
+    </edge>
+    <edge source="16498" target="23283">
+      <data key="d8">30588.0</data>
+    </edge>
+    <edge source="16498" target="28223">
+      <data key="d8">32157.0</data>
+    </edge>
+    <edge source="16498" target="30276">
+      <data key="d8">39297.0</data>
+    </edge>
+    <edge source="16498" target="31043">
+      <data key="d8">33363.0</data>
+    </edge>
+    <edge source="16498" target="31240">
+      <data key="d8">30345.0</data>
+    </edge>
+    <edge source="16498" target="31964">
+      <data key="d8">30891.0</data>
+    </edge>
+    <edge source="16498" target="32281">
+      <data key="d8">30572.0</data>
+    </edge>
+    <edge source="16498" target="4181">
+      <data key="d8">33976.0</data>
+    </edge>
+    <edge source="16498" target="5680">
+      <data key="d8">32439.0</data>
+    </edge>
+    <edge source="16498" target="19815">
+      <data key="d8">40491.0</data>
+    </edge>
+    <edge source="16498" target="22199">
+      <data key="d8">34449.0</data>
+    </edge>
+    <edge source="16498" target="25777">
+      <data key="d8">31285.0</data>
+    </edge>
+    <edge source="16498" target="17265">
+      <data key="d8">30940.0</data>
+    </edge>
+    <edge source="16498" target="6547">
+      <data key="d8">47063.0</data>
+    </edge>
+    <edge source="16498" target="21881">
+      <data key="d8">35239.0</data>
+    </edge>
+    <edge source="16498" target="849">
+      <data key="d8">36437.0</data>
+    </edge>
+    <edge source="16498" target="8769">
+      <data key="d8">30157.0</data>
+    </edge>
+    <edge source="16498" target="4898">
+      <data key="d8">30847.0</data>
+    </edge>
+    <edge source="16498" target="6880">
+      <data key="d8">35788.0</data>
+    </edge>
+    <edge source="16498" target="8074">
+      <data key="d8">40386.0</data>
+    </edge>
+    <edge source="16498" target="10087">
+      <data key="d8">36081.0</data>
+    </edge>
+    <edge source="16498" target="10620">
+      <data key="d8">45639.0</data>
+    </edge>
+    <edge source="16498" target="10793">
+      <data key="d8">36507.0</data>
+    </edge>
+    <edge source="16498" target="14345">
+      <data key="d8">30217.0</data>
+    </edge>
+    <edge source="16498" target="15809">
+      <data key="d8">35894.0</data>
+    </edge>
+    <edge source="16498" target="9756">
+      <data key="d8">36648.0</data>
+    </edge>
+    <edge source="16498" target="13759">
+      <data key="d8">31715.0</data>
+    </edge>
+    <edge source="16498" target="14741">
+      <data key="d8">34087.0</data>
+    </edge>
+    <edge source="853" target="199">
+      <data key="d8">30308.0</data>
+    </edge>
+    <edge source="853" target="2167">
+      <data key="d8">31144.0</data>
+    </edge>
+    <edge source="853" target="6746">
+      <data key="d8">30887.0</data>
+    </edge>
+    <edge source="853" target="849">
+      <data key="d8">31473.0</data>
+    </edge>
+    <edge source="1" target="30">
+      <data key="d8">34064.0</data>
+    </edge>
+    <edge source="1" target="199">
+      <data key="d8">32757.0</data>
+    </edge>
+    <edge source="1" target="205">
+      <data key="d8">32223.0</data>
+    </edge>
+    <edge source="1" target="2001">
+      <data key="d8">35949.0</data>
+    </edge>
+    <edge source="1" target="2025">
+      <data key="d8">30584.0</data>
+    </edge>
+    <edge source="1" target="2167">
+      <data key="d8">31507.0</data>
+    </edge>
+    <edge source="1" target="2904">
+      <data key="d8">32161.0</data>
+    </edge>
+    <edge source="1" target="5081">
+      <data key="d8">30997.0</data>
+    </edge>
+    <edge source="1" target="6746">
+      <data key="d8">32290.0</data>
+    </edge>
+    <edge source="1" target="9253">
+      <data key="d8">32797.0</data>
+    </edge>
+    <edge source="1" target="849">
+      <data key="d8">32524.0</data>
+    </edge>
+    <edge source="1" target="6547">
+      <data key="d8">31919.0</data>
+    </edge>
+    <edge source="30" target="199">
+      <data key="d8">32872.0</data>
+    </edge>
+    <edge source="30" target="2001">
+      <data key="d8">36795.0</data>
+    </edge>
+    <edge source="30" target="2025">
+      <data key="d8">30772.0</data>
+    </edge>
+    <edge source="30" target="2167">
+      <data key="d8">33384.0</data>
+    </edge>
+    <edge source="30" target="2904">
+      <data key="d8">33759.0</data>
+    </edge>
+    <edge source="30" target="5081">
+      <data key="d8">32989.0</data>
+    </edge>
+    <edge source="30" target="6746">
+      <data key="d8">32866.0</data>
+    </edge>
+    <edge source="30" target="9253">
+      <data key="d8">33559.0</data>
+    </edge>
+    <edge source="30" target="849">
+      <data key="d8">34778.0</data>
+    </edge>
+    <edge source="30" target="10620">
+      <data key="d8">30257.0</data>
+    </edge>
+    <edge source="30" target="6547">
+      <data key="d8">33728.0</data>
+    </edge>
+    <edge source="199" target="164">
+      <data key="d8">35321.0</data>
+    </edge>
+    <edge source="199" target="431">
+      <data key="d8">37013.0</data>
+    </edge>
+    <edge source="199" target="1689">
+      <data key="d8">31486.0</data>
+    </edge>
+    <edge source="199" target="2001">
+      <data key="d8">35046.0</data>
+    </edge>
+    <edge source="199" target="2025">
+      <data key="d8">30608.0</data>
+    </edge>
+    <edge source="199" target="2167">
+      <data key="d8">35241.0</data>
+    </edge>
+    <edge source="199" target="2236">
+      <data key="d8">31206.0</data>
+    </edge>
+    <edge source="199" target="2904">
+      <data key="d8">32518.0</data>
+    </edge>
+    <edge source="199" target="5081">
+      <data key="d8">33081.0</data>
+    </edge>
+    <edge source="199" target="6746">
+      <data key="d8">35109.0</data>
+    </edge>
+    <edge source="199" target="9253">
+      <data key="d8">34770.0</data>
+    </edge>
+    <edge source="199" target="849">
+      <data key="d8">35483.0</data>
+    </edge>
+    <edge source="199" target="8074">
+      <data key="d8">30040.0</data>
+    </edge>
+    <edge source="199" target="10620">
+      <data key="d8">31971.0</data>
+    </edge>
+    <edge source="199" target="6547">
+      <data key="d8">35615.0</data>
+    </edge>
+    <edge source="205" target="2001">
+      <data key="d8">32023.0</data>
+    </edge>
+    <edge source="356" target="2001">
+      <data key="d8">32142.0</data>
+    </edge>
+    <edge source="356" target="2025">
+      <data key="d8">30100.0</data>
+    </edge>
+    <edge source="356" target="2167">
+      <data key="d8">33387.0</data>
+    </edge>
+    <edge source="356" target="2904">
+      <data key="d8">32989.0</data>
+    </edge>
+    <edge source="356" target="5081">
+      <data key="d8">31823.0</data>
+    </edge>
+    <edge source="356" target="6746">
+      <data key="d8">31161.0</data>
+    </edge>
+    <edge source="356" target="9253">
+      <data key="d8">31462.0</data>
+    </edge>
+    <edge source="356" target="849">
+      <data key="d8">32497.0</data>
+    </edge>
+    <edge source="356" target="6547">
+      <data key="d8">33579.0</data>
+    </edge>
+    <edge source="934" target="2001">
+      <data key="d8">32002.0</data>
+    </edge>
+    <edge source="934" target="2167">
+      <data key="d8">34925.0</data>
+    </edge>
+    <edge source="934" target="2904">
+      <data key="d8">31083.0</data>
+    </edge>
+    <edge source="934" target="5081">
+      <data key="d8">32776.0</data>
+    </edge>
+    <edge source="934" target="6746">
+      <data key="d8">32036.0</data>
+    </edge>
+    <edge source="934" target="9253">
+      <data key="d8">31956.0</data>
+    </edge>
+    <edge source="934" target="8074">
+      <data key="d8">30263.0</data>
+    </edge>
+    <edge source="934" target="10620">
+      <data key="d8">31053.0</data>
+    </edge>
+    <edge source="934" target="6547">
+      <data key="d8">34356.0</data>
+    </edge>
+    <edge source="934" target="849">
+      <data key="d8">34589.0</data>
+    </edge>
+    <edge source="2001" target="227">
+      <data key="d8">30169.0</data>
+    </edge>
+    <edge source="2001" target="2025">
+      <data key="d8">34623.0</data>
+    </edge>
+    <edge source="2001" target="2167">
+      <data key="d8">38133.0</data>
+    </edge>
+    <edge source="2001" target="2251">
+      <data key="d8">32174.0</data>
+    </edge>
+    <edge source="2001" target="2904">
+      <data key="d8">38580.0</data>
+    </edge>
+    <edge source="2001" target="5081">
+      <data key="d8">37966.0</data>
+    </edge>
+    <edge source="2001" target="6746">
+      <data key="d8">38167.0</data>
+    </edge>
+    <edge source="2001" target="9253">
+      <data key="d8">38758.0</data>
+    </edge>
+    <edge source="2001" target="9919">
+      <data key="d8">32491.0</data>
+    </edge>
+    <edge source="2001" target="9989">
+      <data key="d8">31386.0</data>
+    </edge>
+    <edge source="2001" target="11111">
+      <data key="d8">31028.0</data>
+    </edge>
+    <edge source="2001" target="13601">
+      <data key="d8">30966.0</data>
+    </edge>
+    <edge source="2001" target="18679">
+      <data key="d8">31524.0</data>
+    </edge>
+    <edge source="2001" target="30276">
+      <data key="d8">30250.0</data>
+    </edge>
+    <edge source="2001" target="4181">
+      <data key="d8">31095.0</data>
+    </edge>
+    <edge source="2001" target="5680">
+      <data key="d8">31729.0</data>
+    </edge>
+    <edge source="2001" target="8074">
+      <data key="d8">35093.0</data>
+    </edge>
+    <edge source="2001" target="10087">
+      <data key="d8">30496.0</data>
+    </edge>
+    <edge source="2001" target="10620">
+      <data key="d8">34977.0</data>
+    </edge>
+    <edge source="2001" target="19815">
+      <data key="d8">30648.0</data>
+    </edge>
+    <edge source="2001" target="6547">
+      <data key="d8">39504.0</data>
+    </edge>
+    <edge source="2001" target="9756">
+      <data key="d8">32777.0</data>
+    </edge>
+    <edge source="2001" target="849">
+      <data key="d8">38758.0</data>
+    </edge>
+    <edge source="2001" target="889">
+      <data key="d8">30348.0</data>
+    </edge>
+    <edge source="2025" target="2167">
+      <data key="d8">33829.0</data>
+    </edge>
+    <edge source="2025" target="2904">
+      <data key="d8">35132.0</data>
+    </edge>
+    <edge source="2025" target="5081">
+      <data key="d8">33701.0</data>
+    </edge>
+    <edge source="2025" target="6746">
+      <data key="d8">35574.0</data>
+    </edge>
+    <edge source="2025" target="9253">
+      <data key="d8">34070.0</data>
+    </edge>
+    <edge source="2025" target="9919">
+      <data key="d8">30597.0</data>
+    </edge>
+    <edge source="2025" target="8074">
+      <data key="d8">31278.0</data>
+    </edge>
+    <edge source="2025" target="10620">
+      <data key="d8">31302.0</data>
+    </edge>
+    <edge source="2025" target="6547">
+      <data key="d8">34926.0</data>
+    </edge>
+    <edge source="2025" target="849">
+      <data key="d8">33379.0</data>
+    </edge>
+    <edge source="2167" target="7054">
+      <data key="d8">31304.0</data>
+    </edge>
+    <edge source="2167" target="355">
+      <data key="d8">31860.0</data>
+    </edge>
+    <edge source="2167" target="1689">
+      <data key="d8">33273.0</data>
+    </edge>
+    <edge source="2167" target="2251">
+      <data key="d8">30026.0</data>
+    </edge>
+    <edge source="2167" target="2904">
+      <data key="d8">38387.0</data>
+    </edge>
+    <edge source="2167" target="5081">
+      <data key="d8">40101.0</data>
+    </edge>
+    <edge source="2167" target="6746">
+      <data key="d8">38883.0</data>
+    </edge>
+    <edge source="2167" target="9253">
+      <data key="d8">40266.0</data>
+    </edge>
+    <edge source="2167" target="9919">
+      <data key="d8">33924.0</data>
+    </edge>
+    <edge source="2167" target="9989">
+      <data key="d8">36330.0</data>
+    </edge>
+    <edge source="2167" target="11111">
+      <data key="d8">35089.0</data>
+    </edge>
+    <edge source="2167" target="12189">
+      <data key="d8">30873.0</data>
+    </edge>
+    <edge source="2167" target="13601">
+      <data key="d8">31129.0</data>
+    </edge>
+    <edge source="2167" target="20507">
+      <data key="d8">30175.0</data>
+    </edge>
+    <edge source="2167" target="22319">
+      <data key="d8">30294.0</data>
+    </edge>
+    <edge source="2167" target="2966">
+      <data key="d8">32001.0</data>
+    </edge>
+    <edge source="2167" target="2476">
+      <data key="d8">30000.0</data>
+    </edge>
+    <edge source="2167" target="8769">
+      <data key="d8">30554.0</data>
+    </edge>
+    <edge source="2167" target="1195">
+      <data key="d8">32061.0</data>
+    </edge>
+    <edge source="2167" target="4181">
+      <data key="d8">45823.0</data>
+    </edge>
+    <edge source="2167" target="5680">
+      <data key="d8">36050.0</data>
+    </edge>
+    <edge source="2167" target="8074">
+      <data key="d8">37041.0</data>
+    </edge>
+    <edge source="2167" target="10087">
+      <data key="d8">30867.0</data>
+    </edge>
+    <edge source="2167" target="10620">
+      <data key="d8">38000.0</data>
+    </edge>
+    <edge source="2167" target="10793">
+      <data key="d8">31539.0</data>
+    </edge>
+    <edge source="2167" target="19815">
+      <data key="d8">32486.0</data>
+    </edge>
+    <edge source="2167" target="6547">
+      <data key="d8">45842.0</data>
+    </edge>
+    <edge source="2167" target="9756">
+      <data key="d8">34033.0</data>
+    </edge>
+    <edge source="2167" target="14741">
+      <data key="d8">30807.0</data>
+    </edge>
+    <edge source="2167" target="849">
+      <data key="d8">41641.0</data>
+    </edge>
+    <edge source="2167" target="1887">
+      <data key="d8">31405.0</data>
+    </edge>
+    <edge source="2904" target="2251">
+      <data key="d8">30212.0</data>
+    </edge>
+    <edge source="2904" target="5081">
+      <data key="d8">35925.0</data>
+    </edge>
+    <edge source="2904" target="6746">
+      <data key="d8">37470.0</data>
+    </edge>
+    <edge source="2904" target="9253">
+      <data key="d8">37775.0</data>
+    </edge>
+    <edge source="2904" target="9919">
+      <data key="d8">32713.0</data>
+    </edge>
+    <edge source="2904" target="9989">
+      <data key="d8">30007.0</data>
+    </edge>
+    <edge source="2904" target="11111">
+      <data key="d8">30884.0</data>
+    </edge>
+    <edge source="2904" target="13601">
+      <data key="d8">30374.0</data>
+    </edge>
+    <edge source="2904" target="4181">
+      <data key="d8">32293.0</data>
+    </edge>
+    <edge source="2904" target="8074">
+      <data key="d8">34338.0</data>
+    </edge>
+    <edge source="2904" target="10087">
+      <data key="d8">30389.0</data>
+    </edge>
+    <edge source="2904" target="10620">
+      <data key="d8">34322.0</data>
+    </edge>
+    <edge source="2904" target="6547">
+      <data key="d8">39047.0</data>
+    </edge>
+    <edge source="2904" target="849">
+      <data key="d8">36656.0</data>
+    </edge>
+    <edge source="5081" target="1689">
+      <data key="d8">31273.0</data>
+    </edge>
+    <edge source="5081" target="2251">
+      <data key="d8">30591.0</data>
+    </edge>
+    <edge source="5081" target="4654">
+      <data key="d8">30503.0</data>
+    </edge>
+    <edge source="5081" target="6746">
+      <data key="d8">39751.0</data>
+    </edge>
+    <edge source="5081" target="9253">
+      <data key="d8">40541.0</data>
+    </edge>
+    <edge source="5081" target="9919">
+      <data key="d8">34034.0</data>
+    </edge>
+    <edge source="5081" target="9989">
+      <data key="d8">34864.0</data>
+    </edge>
+    <edge source="5081" target="11111">
+      <data key="d8">34581.0</data>
+    </edge>
+    <edge source="5081" target="12189">
+      <data key="d8">30943.0</data>
+    </edge>
+    <edge source="5081" target="13601">
+      <data key="d8">32111.0</data>
+    </edge>
+    <edge source="5081" target="18679">
+      <data key="d8">30826.0</data>
+    </edge>
+    <edge source="5081" target="20507">
+      <data key="d8">30725.0</data>
+    </edge>
+    <edge source="5081" target="22319">
+      <data key="d8">30409.0</data>
+    </edge>
+    <edge source="5081" target="2966">
+      <data key="d8">31264.0</data>
+    </edge>
+    <edge source="5081" target="8769">
+      <data key="d8">31034.0</data>
+    </edge>
+    <edge source="5081" target="4181">
+      <data key="d8">33375.0</data>
+    </edge>
+    <edge source="5081" target="5680">
+      <data key="d8">34007.0</data>
+    </edge>
+    <edge source="5081" target="6880">
+      <data key="d8">30819.0</data>
+    </edge>
+    <edge source="5081" target="8074">
+      <data key="d8">36832.0</data>
+    </edge>
+    <edge source="5081" target="10087">
+      <data key="d8">31485.0</data>
+    </edge>
+    <edge source="5081" target="10620">
+      <data key="d8">37857.0</data>
+    </edge>
+    <edge source="5081" target="10793">
+      <data key="d8">31867.0</data>
+    </edge>
+    <edge source="5081" target="15809">
+      <data key="d8">30250.0</data>
+    </edge>
+    <edge source="5081" target="19815">
+      <data key="d8">32767.0</data>
+    </edge>
+    <edge source="5081" target="6547">
+      <data key="d8">43179.0</data>
+    </edge>
+    <edge source="5081" target="9756">
+      <data key="d8">34473.0</data>
+    </edge>
+    <edge source="5081" target="14741">
+      <data key="d8">31167.0</data>
+    </edge>
+    <edge source="5081" target="849">
+      <data key="d8">38408.0</data>
+    </edge>
+    <edge source="6746" target="7054">
+      <data key="d8">30480.0</data>
+    </edge>
+    <edge source="6746" target="918">
+      <data key="d8">30089.0</data>
+    </edge>
+    <edge source="6746" target="1689">
+      <data key="d8">31318.0</data>
+    </edge>
+    <edge source="6746" target="2251">
+      <data key="d8">33778.0</data>
+    </edge>
+    <edge source="6746" target="9253">
+      <data key="d8">41060.0</data>
+    </edge>
+    <edge source="6746" target="9919">
+      <data key="d8">37758.0</data>
+    </edge>
+    <edge source="6746" target="9989">
+      <data key="d8">34972.0</data>
+    </edge>
+    <edge source="6746" target="11111">
+      <data key="d8">35532.0</data>
+    </edge>
+    <edge source="6746" target="12189">
+      <data key="d8">30710.0</data>
+    </edge>
+    <edge source="6746" target="13601">
+      <data key="d8">34469.0</data>
+    </edge>
+    <edge source="6746" target="18679">
+      <data key="d8">30812.0</data>
+    </edge>
+    <edge source="6746" target="20507">
+      <data key="d8">32381.0</data>
+    </edge>
+    <edge source="6746" target="22319">
+      <data key="d8">32452.0</data>
+    </edge>
+    <edge source="6746" target="30276">
+      <data key="d8">30950.0</data>
+    </edge>
+    <edge source="6746" target="4181">
+      <data key="d8">32037.0</data>
+    </edge>
+    <edge source="6746" target="5680">
+      <data key="d8">32918.0</data>
+    </edge>
+    <edge source="6746" target="6880">
+      <data key="d8">32573.0</data>
+    </edge>
+    <edge source="6746" target="8074">
+      <data key="d8">36590.0</data>
+    </edge>
+    <edge source="6746" target="10087">
+      <data key="d8">31524.0</data>
+    </edge>
+    <edge source="6746" target="10620">
+      <data key="d8">38517.0</data>
+    </edge>
+    <edge source="6746" target="10793">
+      <data key="d8">32190.0</data>
+    </edge>
+    <edge source="6746" target="19815">
+      <data key="d8">32039.0</data>
+    </edge>
+    <edge source="6746" target="6547">
+      <data key="d8">42961.0</data>
+    </edge>
+    <edge source="6746" target="9756">
+      <data key="d8">33826.0</data>
+    </edge>
+    <edge source="6746" target="849">
+      <data key="d8">37092.0</data>
+    </edge>
+    <edge source="6746" target="4898">
+      <data key="d8">32123.0</data>
+    </edge>
+    <edge source="9253" target="1689">
+      <data key="d8">31609.0</data>
+    </edge>
+    <edge source="9253" target="2251">
+      <data key="d8">31788.0</data>
+    </edge>
+    <edge source="9253" target="9919">
+      <data key="d8">37782.0</data>
+    </edge>
+    <edge source="9253" target="9989">
+      <data key="d8">37744.0</data>
+    </edge>
+    <edge source="9253" target="11111">
+      <data key="d8">38903.0</data>
+    </edge>
+    <edge source="9253" target="12189">
+      <data key="d8">32897.0</data>
+    </edge>
+    <edge source="9253" target="13601">
+      <data key="d8">37619.0</data>
+    </edge>
+    <edge source="9253" target="18679">
+      <data key="d8">34095.0</data>
+    </edge>
+    <edge source="9253" target="20507">
+      <data key="d8">34896.0</data>
+    </edge>
+    <edge source="9253" target="22319">
+      <data key="d8">35972.0</data>
+    </edge>
+    <edge source="9253" target="22535">
+      <data key="d8">30762.0</data>
+    </edge>
+    <edge source="9253" target="23273">
+      <data key="d8">30850.0</data>
+    </edge>
+    <edge source="9253" target="30276">
+      <data key="d8">35174.0</data>
+    </edge>
+    <edge source="9253" target="31043">
+      <data key="d8">31488.0</data>
+    </edge>
+    <edge source="9253" target="4181">
+      <data key="d8">33941.0</data>
+    </edge>
+    <edge source="9253" target="5680">
+      <data key="d8">32137.0</data>
+    </edge>
+    <edge source="9253" target="10087">
+      <data key="d8">35572.0</data>
+    </edge>
+    <edge source="9253" target="10620">
+      <data key="d8">43004.0</data>
+    </edge>
+    <edge source="9253" target="10793">
+      <data key="d8">35115.0</data>
+    </edge>
+    <edge source="9253" target="15809">
+      <data key="d8">32628.0</data>
+    </edge>
+    <edge source="9253" target="19815">
+      <data key="d8">36934.0</data>
+    </edge>
+    <edge source="9253" target="22199">
+      <data key="d8">30942.0</data>
+    </edge>
+    <edge source="9253" target="6547">
+      <data key="d8">45434.0</data>
+    </edge>
+    <edge source="9253" target="21881">
+      <data key="d8">31200.0</data>
+    </edge>
+    <edge source="9253" target="9756">
+      <data key="d8">36604.0</data>
+    </edge>
+    <edge source="9253" target="14741">
+      <data key="d8">32418.0</data>
+    </edge>
+    <edge source="9253" target="849">
+      <data key="d8">36573.0</data>
+    </edge>
+    <edge source="9253" target="6880">
+      <data key="d8">33930.0</data>
+    </edge>
+    <edge source="9253" target="8074">
+      <data key="d8">37986.0</data>
+    </edge>
+    <edge source="9919" target="9989">
+      <data key="d8">32157.0</data>
+    </edge>
+    <edge source="9919" target="11111">
+      <data key="d8">34681.0</data>
+    </edge>
+    <edge source="9919" target="13601">
+      <data key="d8">32077.0</data>
+    </edge>
+    <edge source="9919" target="20507">
+      <data key="d8">32403.0</data>
+    </edge>
+    <edge source="9919" target="22319">
+      <data key="d8">33008.0</data>
+    </edge>
+    <edge source="9919" target="30276">
+      <data key="d8">30154.0</data>
+    </edge>
+    <edge source="9919" target="10620">
+      <data key="d8">37721.0</data>
+    </edge>
+    <edge source="9919" target="10793">
+      <data key="d8">32552.0</data>
+    </edge>
+    <edge source="9919" target="19815">
+      <data key="d8">32045.0</data>
+    </edge>
+    <edge source="9919" target="6547">
+      <data key="d8">39638.0</data>
+    </edge>
+    <edge source="9919" target="849">
+      <data key="d8">30068.0</data>
+    </edge>
+    <edge source="9919" target="6880">
+      <data key="d8">32745.0</data>
+    </edge>
+    <edge source="9919" target="8074">
+      <data key="d8">34981.0</data>
+    </edge>
+    <edge source="849" target="355">
+      <data key="d8">31074.0</data>
+    </edge>
+    <edge source="849" target="1689">
+      <data key="d8">32089.0</data>
+    </edge>
+    <edge source="849" target="2236">
+      <data key="d8">30237.0</data>
+    </edge>
+    <edge source="849" target="2251">
+      <data key="d8">30311.0</data>
+    </edge>
+    <edge source="849" target="9989">
+      <data key="d8">32272.0</data>
+    </edge>
+    <edge source="849" target="11111">
+      <data key="d8">30749.0</data>
+    </edge>
+    <edge source="849" target="2966">
+      <data key="d8">31211.0</data>
+    </edge>
+    <edge source="849" target="1887">
+      <data key="d8">33986.0</data>
+    </edge>
+    <edge source="849" target="1195">
+      <data key="d8">30121.0</data>
+    </edge>
+    <edge source="849" target="4181">
+      <data key="d8">33886.0</data>
+    </edge>
+    <edge source="849" target="4382">
+      <data key="d8">32733.0</data>
+    </edge>
+    <edge source="849" target="5680">
+      <data key="d8">35998.0</data>
+    </edge>
+    <edge source="849" target="8074">
+      <data key="d8">33787.0</data>
+    </edge>
+    <edge source="849" target="10620">
+      <data key="d8">33456.0</data>
+    </edge>
+    <edge source="849" target="6547">
+      <data key="d8">40161.0</data>
+    </edge>
+    <edge source="849" target="1210">
+      <data key="d8">30698.0</data>
+    </edge>
+    <edge source="849" target="9756">
+      <data key="d8">32858.0</data>
+    </edge>
+    <edge source="8074" target="6880">
+      <data key="d8">32486.0</data>
+    </edge>
+    <edge source="8074" target="9989">
+      <data key="d8">31589.0</data>
+    </edge>
+    <edge source="8074" target="11111">
+      <data key="d8">34726.0</data>
+    </edge>
+    <edge source="8074" target="13601">
+      <data key="d8">30440.0</data>
+    </edge>
+    <edge source="8074" target="22319">
+      <data key="d8">30861.0</data>
+    </edge>
+    <edge source="8074" target="4181">
+      <data key="d8">30751.0</data>
+    </edge>
+    <edge source="8074" target="5680">
+      <data key="d8">30182.0</data>
+    </edge>
+    <edge source="8074" target="10620">
+      <data key="d8">37863.0</data>
+    </edge>
+    <edge source="8074" target="10793">
+      <data key="d8">31579.0</data>
+    </edge>
+    <edge source="8074" target="19815">
+      <data key="d8">31860.0</data>
+    </edge>
+    <edge source="8074" target="6547">
+      <data key="d8">42116.0</data>
+    </edge>
+    <edge source="8074" target="9756">
+      <data key="d8">30578.0</data>
+    </edge>
+    <edge source="10620" target="9989">
+      <data key="d8">35861.0</data>
+    </edge>
+    <edge source="10620" target="6880">
+      <data key="d8">34517.0</data>
+    </edge>
+    <edge source="10620" target="10087">
+      <data key="d8">32935.0</data>
+    </edge>
+    <edge source="10620" target="11111">
+      <data key="d8">40207.0</data>
+    </edge>
+    <edge source="10620" target="12189">
+      <data key="d8">31906.0</data>
+    </edge>
+    <edge source="10620" target="13601">
+      <data key="d8">35370.0</data>
+    </edge>
+    <edge source="10620" target="18679">
+      <data key="d8">32733.0</data>
+    </edge>
+    <edge source="10620" target="20507">
+      <data key="d8">34547.0</data>
+    </edge>
+    <edge source="10620" target="22319">
+      <data key="d8">36328.0</data>
+    </edge>
+    <edge source="10620" target="22535">
+      <data key="d8">30003.0</data>
+    </edge>
+    <edge source="10620" target="30276">
+      <data key="d8">33271.0</data>
+    </edge>
+    <edge source="10620" target="4181">
+      <data key="d8">31714.0</data>
+    </edge>
+    <edge source="10620" target="5680">
+      <data key="d8">30048.0</data>
+    </edge>
+    <edge source="10620" target="10793">
+      <data key="d8">35011.0</data>
+    </edge>
+    <edge source="10620" target="15809">
+      <data key="d8">32185.0</data>
+    </edge>
+    <edge source="10620" target="19815">
+      <data key="d8">36313.0</data>
+    </edge>
+    <edge source="10620" target="22199">
+      <data key="d8">31057.0</data>
+    </edge>
+    <edge source="10620" target="6547">
+      <data key="d8">43917.0</data>
+    </edge>
+    <edge source="10620" target="21881">
+      <data key="d8">31072.0</data>
+    </edge>
+    <edge source="10620" target="14741">
+      <data key="d8">32021.0</data>
+    </edge>
+    <edge source="10620" target="9756">
+      <data key="d8">34246.0</data>
+    </edge>
+    <edge source="6547" target="7054">
+      <data key="d8">33251.0</data>
+    </edge>
+    <edge source="6547" target="14227">
+      <data key="d8">30293.0</data>
+    </edge>
+    <edge source="6547" target="355">
+      <data key="d8">31119.0</data>
+    </edge>
+    <edge source="6547" target="1689">
+      <data key="d8">33063.0</data>
+    </edge>
+    <edge source="6547" target="2251">
+      <data key="d8">31241.0</data>
+    </edge>
+    <edge source="6547" target="4654">
+      <data key="d8">31957.0</data>
+    </edge>
+    <edge source="6547" target="9989">
+      <data key="d8">39714.0</data>
+    </edge>
+    <edge source="6547" target="11111">
+      <data key="d8">40375.0</data>
+    </edge>
+    <edge source="6547" target="12189">
+      <data key="d8">34125.0</data>
+    </edge>
+    <edge source="6547" target="13601">
+      <data key="d8">35689.0</data>
+    </edge>
+    <edge source="6547" target="14813">
+      <data key="d8">31473.0</data>
+    </edge>
+    <edge source="6547" target="18153">
+      <data key="d8">30521.0</data>
+    </edge>
+    <edge source="6547" target="18679">
+      <data key="d8">33849.0</data>
+    </edge>
+    <edge source="6547" target="20507">
+      <data key="d8">35348.0</data>
+    </edge>
+    <edge source="6547" target="22319">
+      <data key="d8">35796.0</data>
+    </edge>
+    <edge source="6547" target="23273">
+      <data key="d8">31408.0</data>
+    </edge>
+    <edge source="6547" target="30276">
+      <data key="d8">34068.0</data>
+    </edge>
+    <edge source="6547" target="31043">
+      <data key="d8">30546.0</data>
+    </edge>
+    <edge source="6547" target="2966">
+      <data key="d8">32010.0</data>
+    </edge>
+    <edge source="6547" target="6347">
+      <data key="d8">30707.0</data>
+    </edge>
+    <edge source="6547" target="8769">
+      <data key="d8">33343.0</data>
+    </edge>
+    <edge source="6547" target="1195">
+      <data key="d8">32159.0</data>
+    </edge>
+    <edge source="6547" target="4181">
+      <data key="d8">38455.0</data>
+    </edge>
+    <edge source="6547" target="5680">
+      <data key="d8">36612.0</data>
+    </edge>
+    <edge source="6547" target="4898">
+      <data key="d8">30539.0</data>
+    </edge>
+    <edge source="6547" target="6880">
+      <data key="d8">34661.0</data>
+    </edge>
+    <edge source="6547" target="8525">
+      <data key="d8">30415.0</data>
+    </edge>
+    <edge source="6547" target="10087">
+      <data key="d8">35033.0</data>
+    </edge>
+    <edge source="6547" target="10719">
+      <data key="d8">31097.0</data>
+    </edge>
+    <edge source="6547" target="10793">
+      <data key="d8">36519.0</data>
+    </edge>
+    <edge source="6547" target="15809">
+      <data key="d8">34064.0</data>
+    </edge>
+    <edge source="6547" target="19815">
+      <data key="d8">38133.0</data>
+    </edge>
+    <edge source="6547" target="22199">
+      <data key="d8">31433.0</data>
+    </edge>
+    <edge source="6547" target="21881">
+      <data key="d8">32348.0</data>
+    </edge>
+    <edge source="6547" target="9756">
+      <data key="d8">37826.0</data>
+    </edge>
+    <edge source="6547" target="13759">
+      <data key="d8">32228.0</data>
+    </edge>
+    <edge source="6547" target="14741">
+      <data key="d8">34549.0</data>
+    </edge>
+    <edge source="9989" target="11111">
+      <data key="d8">33735.0</data>
+    </edge>
+    <edge source="9989" target="12189">
+      <data key="d8">31065.0</data>
+    </edge>
+    <edge source="9989" target="13601">
+      <data key="d8">30375.0</data>
+    </edge>
+    <edge source="9989" target="20507">
+      <data key="d8">30034.0</data>
+    </edge>
+    <edge source="9989" target="4181">
+      <data key="d8">31120.0</data>
+    </edge>
+    <edge source="9989" target="10793">
+      <data key="d8">30003.0</data>
+    </edge>
+    <edge source="9989" target="19815">
+      <data key="d8">30840.0</data>
+    </edge>
+    <edge source="9989" target="9756">
+      <data key="d8">32135.0</data>
+    </edge>
+    <edge source="11111" target="12189">
+      <data key="d8">30251.0</data>
+    </edge>
+    <edge source="11111" target="13601">
+      <data key="d8">32835.0</data>
+    </edge>
+    <edge source="11111" target="20507">
+      <data key="d8">31460.0</data>
+    </edge>
+    <edge source="11111" target="22319">
+      <data key="d8">33154.0</data>
+    </edge>
+    <edge source="11111" target="19815">
+      <data key="d8">32506.0</data>
+    </edge>
+    <edge source="11111" target="6880">
+      <data key="d8">31878.0</data>
+    </edge>
+    <edge source="11111" target="10087">
+      <data key="d8">30001.0</data>
+    </edge>
+    <edge source="11111" target="10793">
+      <data key="d8">31885.0</data>
+    </edge>
+    <edge source="11111" target="9756">
+      <data key="d8">31837.0</data>
+    </edge>
+    <edge source="13601" target="20507">
+      <data key="d8">31101.0</data>
+    </edge>
+    <edge source="13601" target="22319">
+      <data key="d8">32241.0</data>
+    </edge>
+    <edge source="13601" target="30276">
+      <data key="d8">30166.0</data>
+    </edge>
+    <edge source="13601" target="19815">
+      <data key="d8">31288.0</data>
+    </edge>
+    <edge source="18679" target="19815">
+      <data key="d8">31515.0</data>
+    </edge>
+    <edge source="20507" target="22319">
+      <data key="d8">34023.0</data>
+    </edge>
+    <edge source="20507" target="30276">
+      <data key="d8">31457.0</data>
+    </edge>
+    <edge source="20507" target="15809">
+      <data key="d8">30257.0</data>
+    </edge>
+    <edge source="20507" target="19815">
+      <data key="d8">33809.0</data>
+    </edge>
+    <edge source="22319" target="22535">
+      <data key="d8">30496.0</data>
+    </edge>
+    <edge source="22319" target="30276">
+      <data key="d8">33165.0</data>
+    </edge>
+    <edge source="22319" target="27899">
+      <data key="d8">31496.0</data>
+    </edge>
+    <edge source="22319" target="21881">
+      <data key="d8">30407.0</data>
+    </edge>
+    <edge source="22319" target="19815">
+      <data key="d8">34591.0</data>
+    </edge>
+    <edge source="22319" target="22199">
+      <data key="d8">31365.0</data>
+    </edge>
+    <edge source="30276" target="31043">
+      <data key="d8">30179.0</data>
+    </edge>
+    <edge source="30276" target="19815">
+      <data key="d8">33205.0</data>
+    </edge>
+    <edge source="1887" target="5680">
+      <data key="d8">30204.0</data>
+    </edge>
+    <edge source="4181" target="5680">
+      <data key="d8">30039.0</data>
+    </edge>
+    <edge source="5680" target="7791">
+      <data key="d8">30349.0</data>
+    </edge>
+    <edge source="5680" target="9756">
+      <data key="d8">30160.0</data>
+    </edge>
+    <edge source="10087" target="11741">
+      <data key="d8">32441.0</data>
+    </edge>
+    <edge source="10793" target="19815">
+      <data key="d8">30286.0</data>
+    </edge>
+    <edge source="15809" target="19815">
+      <data key="d8">31135.0</data>
+    </edge>
+    <edge source="19815" target="22199">
+      <data key="d8">31525.0</data>
+    </edge>
+    <edge source="19815" target="21881">
+      <data key="d8">32212.0</data>
+    </edge>
+    <edge source="164" target="431">
+      <data key="d8">30621.0</data>
+    </edge>
+  </graph>
+</graphml>
