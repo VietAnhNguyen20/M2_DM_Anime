@@ -34,6 +34,10 @@
 + Map from communities to the properties of animes -> Features of the same animes in the anime communities 
 
 
+- Graph for user graph -> Need to filter also in the anime-user dataset
+
+
+
 - (2,3 animes) => Recommendation for people to watch next anime based on the first one
 (Frequent Pattern)
 
