@@ -29,7 +29,7 @@
 
 -> Relationship between anime
 
-+ Threshold is reasonble (Distribution plot for threshold)?
++ Threshold is reasonble (Distribution plot for threshold)? 
 + How many communities is enough ?
 + Map from communities to the properties of animes -> Features of the same animes in the anime communities 
 
